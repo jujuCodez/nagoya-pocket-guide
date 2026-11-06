@@ -1,0 +1,2631 @@
+{
+  "version": "2026-11-06.1",
+  "checked": "2026-11-06",
+  "places": [
+    {
+      "id": "mwt-0",
+      "partner": "mwt",
+      "name": "Meitetsu Travel",
+      "branch": "Meieki Underground",
+      "jp": "名鉄観光サービス 名駅地下支店",
+      "tagline": "Start here: buy your stamp book",
+      "kind": "Travel counter",
+      "area": "Nagoya Station",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "10:00–18:30 (reservation services until 18:00)",
+      "closed": "Underground mall closure days and New Year holidays",
+      "stamps": 1,
+      "chars": [
+        "Honoka",
+        "Chika",
+        "Ayumu",
+        "Kanon",
+        "Kaho",
+        "Rurika",
+        "Anzu",
+        "Polka"
+      ],
+      "series": [
+        "aqours",
+        "hasu",
+        "ikzl",
+        "liella",
+        "mus",
+        "niji",
+        "sim"
+      ],
+      "rules": [
+        "Book + choice of acrylic stand: ¥2,500, cash only.",
+        "Collect 15 stamps, then claim the key-visual postcard at Kanayama, 10:00–18:30. Aim for before 18:00.",
+        "Optional keychain/food/transport bundle: ¥3,500. Ordinary bundle is ¥2,370, so the collaboration premium is ¥1,130.",
+        "Counter purchase ¥2,000+: one novelty card per person per transaction.",
+        "Meieki panels: Aqours + Nijigasaki. Kanayama panels: Liella! + Hasunosora."
+      ],
+      "warnings": [
+        "Stock is limited. These are travel-agency counters, not railway ticket machines."
+      ],
+      "image": "assets/mwt.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://www.mwt.co.jp/kokunai/chubu/special/lovelive2026/",
+      "x": "https://x.com/MWT_Travel/status/2114643216037191722",
+      "lat": 35.1699422,
+      "lng": 136.884366,
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-13"
+    },
+    {
+      "id": "mwt-1",
+      "partner": "mwt",
+      "name": "Meitetsu Travel",
+      "branch": "Kanayama Travel Counter",
+      "jp": "名鉄観光サービス 金山駅旅行センター",
+      "tagline": "Start here: buy your stamp book",
+      "kind": "Travel counter",
+      "area": "Kanayama",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "10:00–18:30 (new requests until 18:00)",
+      "closed": "New Year holidays",
+      "stamps": 1,
+      "chars": [
+        "Honoka",
+        "Chika",
+        "Ayumu",
+        "Kanon",
+        "Kaho",
+        "Rurika",
+        "Anzu",
+        "Polka"
+      ],
+      "series": [
+        "aqours",
+        "hasu",
+        "ikzl",
+        "liella",
+        "mus",
+        "niji",
+        "sim"
+      ],
+      "rules": [
+        "Book + choice of acrylic stand: ¥2,500, cash only.",
+        "Collect 15 stamps, then claim the key-visual postcard at Kanayama, 10:00–18:30. Aim for before 18:00.",
+        "Optional keychain/food/transport bundle: ¥3,500. Ordinary bundle is ¥2,370, so the collaboration premium is ¥1,130.",
+        "Counter purchase ¥2,000+: one novelty card per person per transaction.",
+        "Meieki panels: Aqours + Nijigasaki. Kanayama panels: Liella! + Hasunosora."
+      ],
+      "warnings": [
+        "Stock is limited. These are travel-agency counters, not railway ticket machines."
+      ],
+      "image": "assets/mwt.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://www.mwt.co.jp/kokunai/chubu/special/lovelive2026/",
+      "x": "https://x.com/MWT_Travel/status/2114643216037191722",
+      "lat": 35.1427366,
+      "lng": 136.9013824,
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-17"
+    },
+    {
+      "id": "aokis-0",
+      "partner": "aokis",
+      "name": "Aoki’s Pizza",
+      "branch": "Ikeshita",
+      "jp": "アオキーズ・ピザ 池下店",
+      "tagline": "Takeaway pizza + Maki / Izumi card",
+      "kind": "Food",
+      "area": "East Nagoya",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "11:00–22:00",
+      "closed": "Tuesdays, or next day if Tuesday is a holiday. Check the source before travelling.",
+      "stamps": 1,
+      "chars": [
+        "Maki",
+        "Izumi"
+      ],
+      "series": [
+        "hasu",
+        "mus"
+      ],
+      "rules": [
+        "Takeaway spending ¥1,500+: one novelty card per person per transaction. Delivery is excluded.",
+        "Stamps only at Ikeshita and Nakamura Koen. Other listed branches have small panels."
+      ],
+      "warnings": [
+        "Closing-day sources conflict at Nakamura Koen. Recheck before a special trip."
+      ],
+      "image": "assets/aokis.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://www.mwt.co.jp/kokunai/chubu/special/lovelive2026/",
+      "x": "https://x.com/aokis_pizza/status/2114643202636484625",
+      "lat": 35.1684202,
+      "lng": 136.9446173,
+      "status": "Hours need checking",
+      "checked": "2026-11-06",
+      "extras": [
+        {
+          "jp": "栄店",
+          "hours": "11:00〜22:30",
+          "lat": 35.1627776,
+          "lng": 136.8936747,
+          "note": "パネルあり"
+        },
+        {
+          "jp": "土古店",
+          "hours": "11:00〜22:00",
+          "lat": 35.111638,
+          "lng": 136.858614,
+          "note": "パネルあり"
+        },
+        {
+          "jp": "大江店",
+          "hours": "11:00〜22:00",
+          "lat": 35.0872074,
+          "lng": 136.9140292,
+          "note": "パネルあり"
+        }
+      ],
+      "suggested": "2026-11-13"
+    },
+    {
+      "id": "aokis-1",
+      "partner": "aokis",
+      "name": "Aoki’s Pizza",
+      "branch": "Nakamura Koen",
+      "jp": "アオキーズ・ピザ 中村公園店",
+      "tagline": "Takeaway pizza + Maki / Izumi card",
+      "kind": "Food",
+      "area": "West Nagoya",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "11:00–22:00",
+      "closed": "Tuesdays, or next day if Tuesday is a holiday. Check the source before travelling.",
+      "stamps": 1,
+      "chars": [
+        "Maki",
+        "Izumi"
+      ],
+      "series": [
+        "hasu",
+        "mus"
+      ],
+      "rules": [
+        "Takeaway spending ¥1,500+: one novelty card per person per transaction. Delivery is excluded.",
+        "Stamps only at Ikeshita and Nakamura Koen. Other listed branches have small panels."
+      ],
+      "warnings": [
+        "Closing-day sources conflict at Nakamura Koen. Recheck before a special trip."
+      ],
+      "image": "assets/aokis.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://www.mwt.co.jp/kokunai/chubu/special/lovelive2026/",
+      "x": "https://x.com/aokis_pizza/status/2114643202636484625",
+      "lat": 35.1669523,
+      "lng": 136.8557206,
+      "status": "Hours need checking",
+      "checked": "2026-11-06",
+      "extras": [
+        {
+          "jp": "栄店",
+          "hours": "11:00〜22:30",
+          "lat": 35.1627776,
+          "lng": 136.8936747,
+          "note": "パネルあり"
+        },
+        {
+          "jp": "土古店",
+          "hours": "11:00〜22:00",
+          "lat": 35.111638,
+          "lng": 136.858614,
+          "note": "パネルあり"
+        },
+        {
+          "jp": "大江店",
+          "hours": "11:00〜22:00",
+          "lat": 35.0872074,
+          "lng": 136.9140292,
+          "note": "パネルあり"
+        }
+      ],
+      "suggested": "2026-11-13"
+    },
+    {
+      "id": "aoyagi-0",
+      "partner": "aoyagi",
+      "name": "Aoyagi Sohonke",
+      "branch": "KITTE Nagoya",
+      "jp": "青柳総本家 KITTE名古屋店",
+      "tagline": "Nagoya uiro sweets + 3 stamps",
+      "kind": "Food",
+      "area": "Nagoya Station",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "10:00–20:00 (food menu from 11:00)",
+      "closed": "1 January",
+      "stamps": 3,
+      "chars": [
+        "Honoka",
+        "Rina",
+        "Wien Margarete"
+      ],
+      "series": [
+        "liella",
+        "mus",
+        "niji"
+      ],
+      "rules": [
+        "Collaboration three-bar uiro box: ¥2,400, with an included card.",
+        "Separate spending bonus: ¥2,500+ gives one card per person per transaction. Ordinary goods can qualify.",
+        "The ¥2,400 box alone is below the separate bonus threshold. Ask whether a small eligible add-on earns the extra card.",
+        "Honoka, Rina and Wien Margarete small panels. KITTE 1F."
+      ],
+      "warnings": [
+        "Included-card and spending-card designs may overlap."
+      ],
+      "image": "assets/aoyagi.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://www.mwt.co.jp/kokunai/chubu/special/lovelive2026/",
+      "x": "https://x.com/aoyagi_souhonke/status/2114643193979355426",
+      "lat": 35.1732412,
+      "lng": 136.8821961,
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-13"
+    },
+    {
+      "id": "ebisenbe-0",
+      "partner": "ebisenbe",
+      "name": "Ebisenbei no Sato",
+      "branch": "Atsuta nagAya",
+      "jp": "えびせんべいの里 あつたnagAya店",
+      "tagline": "Shrimp crackers + Ginko / Mai",
+      "kind": "Food",
+      "area": "Atsuta",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "10:00–18:00",
+      "closed": "",
+      "stamps": 2,
+      "chars": [
+        "Mai",
+        "Ginko"
+      ],
+      "series": [
+        "hasu",
+        "ikzl"
+      ],
+      "rules": [
+        "Two stamps and character panels at Atsuta nagAya.",
+        "One random card per ¥2,000; maximum two per transaction.",
+        "Ordinary shrimp-cracker souvenirs qualify; no dedicated collaboration product was listed."
+      ],
+      "warnings": [
+        "¥4,000 gives two cards, not guaranteed different designs."
+      ],
+      "image": "assets/ebisenbe.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://www.mwt.co.jp/kokunai/chubu/special/lovelive2026/",
+      "x": "https://x.com/Ebisato1989/status/2114643195992908198",
+      "lat": 35.1254506,
+      "lng": 136.9118531,
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-17"
+    },
+    {
+      "id": "kiyome-0",
+      "partner": "kiyome",
+      "name": "Kiyome Mochi",
+      "branch": "Jingu Station-front",
+      "jp": "きよめ餅総本家 名鉄神宮駅前喫茶部",
+      "tagline": "Bread + acrylic keychain + 3 stamps",
+      "kind": "Food",
+      "area": "Atsuta",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "Weekdays 09:00–18:00 / weekends 08:30–18:00; closed Wed",
+      "closed": "Wednesdays, or Thursday if Wednesday is a holiday, per the official shop website. Avoid 18 November.",
+      "stamps": 3,
+      "chars": [
+        "Shioriko",
+        "Hanabi",
+        "Rurika"
+      ],
+      "series": [
+        "ikzl",
+        "niji",
+        "sim"
+      ],
+      "rules": [
+        "Collaboration Kiyomepan package: ¥2,000, with acrylic keychain.",
+        "¥2,000+ spend: one novelty card per transaction. Three random designs are listed in the supplied guide.",
+        "Shioriko, Hanabi and Rurika panels and flags. Use the station-front branch, not another stockist."
+      ],
+      "warnings": [
+        "Official branch page lists Wednesday closure, unlike the supplied sheet. Avoid Nov 18. Check food expiry."
+      ],
+      "image": "assets/kiyome.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://kiyome.net/company/",
+      "x": "https://x.com/kiyome_honke/status/2114643232042701182",
+      "lat": 35.1264325,
+      "lng": 136.9111846,
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-17"
+    },
+    {
+      "id": "kohgen-0",
+      "partner": "kohgen",
+      "name": "Kohgen Incense",
+      "branch": "Nagoya Main",
+      "jp": "香源 名古屋本店",
+      "tagline": "A small souvenir + 3 stamps",
+      "kind": "Shopping",
+      "area": "West Nagoya",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "9:17–18:17",
+      "closed": "",
+      "stamps": 3,
+      "chars": [
+        "Konohana Aurora",
+        "Riko",
+        "Hanayo"
+      ],
+      "series": [
+        "aqours",
+        "ikzl",
+        "mus"
+      ],
+      "rules": [
+        "Collaboration incense: ¥2,200 each. Fragrances: cherry blossom; coconut vanilla honey; white floral.",
+        "¥2,000+ including a collaboration product: one novelty card per transaction. Ordinary incense alone does not qualify.",
+        "Hanayo, Riko and Konohana Aurora. Photo spot is announced on 2F.",
+        "Limit: five of each incense variety per person."
+      ],
+      "warnings": [
+        "Hours really are listed as 9:17–18:17."
+      ],
+      "image": "assets/kohgen.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://www.mwt.co.jp/kokunai/chubu/special/lovelive2026/",
+      "x": "https://x.com/kohgen_official/status/2114643194918879625",
+      "lat": 35.1729777,
+      "lng": 136.8666777,
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-13"
+    },
+    {
+      "id": "sobajima-0",
+      "partner": "sobajima",
+      "name": "SOBAJIMA shop",
+      "branch": "Factory shop, Oharu",
+      "jp": "側島製罐 側島製罐（そばじまSHOP）",
+      "tagline": "Chika tins and card case",
+      "kind": "Shopping",
+      "area": "Oharu",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "Weekdays 09:00–17:00; Nov 7,14,15,21 09:00–15:00",
+      "closed": "",
+      "stamps": 1,
+      "chars": [
+        "Chika"
+      ],
+      "series": [
+        "aqours"
+      ],
+      "rules": [
+        "Chika memorial work tin: ¥3,850. Card case + original rubber band: ¥2,200.",
+        "One novelty card per collaboration tin purchased. One stamp and Chika panel.",
+        "Weekdays 9:00–17:00. Special weekends Nov 7, 14, 15, 21: 9:00–15:00. Other weekends closed unless updated."
+      ],
+      "warnings": [
+        "Outside central Nagoya, in Oharu. Use official map for the factory entrance. Optional detour; not needed for 15 stamps."
+      ],
+      "image": "assets/sobajima.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://www.mwt.co.jp/kokunai/chubu/special/lovelive2026/",
+      "x": "https://x.com/sobajimacan/status/2114643194436588016",
+      "lat": 35.1862033,
+      "lng": 136.8100391,
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-17"
+    },
+    {
+      "id": "kagakukan-0",
+      "partner": "kagakukan",
+      "name": "FUJI Nagoya Science Museum",
+      "branch": "Shirakawa Park",
+      "jp": "FUJIなごや科学館 FUJIなごや科学館",
+      "tagline": "Shiki panel inside the museum",
+      "kind": "Photos",
+      "area": "Fushimi / Osu",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "9:30–17:00 (last admission 16:30)",
+      "closed": "Mondays (next weekday if a holiday) and third Fridays (fourth Friday if a holiday). Closed 16 November.",
+      "stamps": 1,
+      "chars": [
+        "Shiki"
+      ],
+      "series": [
+        "liella"
+      ],
+      "rules": [
+        "One stamp and Shiki panel in Life Science Building B2F, Aichi–Nagoya Nobel Prize Winners Memorial Room.",
+        "If that room is closed, the display moves to Life Science B2F or the 1F stair area.",
+        "Paid area. Adult exhibition-only entry ¥500; with planetarium ¥1,000.",
+        "9:30–17:00; last entry 16:30. Closed Monday Nov 16."
+      ],
+      "warnings": [
+        "Exhibitions-only admission is enough for this stop. You do not need a planetarium booking."
+      ],
+      "image": "assets/kagakukan.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://www.ncsm.city.nagoya.jp/visit/attraction/event/2026/post_820.html",
+      "x": "https://x.com/ncsm_Nagoya/status/2114643194701021502",
+      "lat": 35.1650768,
+      "lng": 136.8997026,
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-18"
+    },
+    {
+      "id": "convention-0",
+      "partner": "convention",
+      "name": "Nagoya Tourist Information",
+      "branch": "Oasis 21 i Center",
+      "jp": "名古屋観光コンベンションビューロー オアシス21 iセンター（名古屋市観光案内所）",
+      "tagline": "Group panels + a free photo stop",
+      "kind": "Photos",
+      "area": "Sakae",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "10:00–20:00 (goods sales until 18:00)",
+      "closed": "1 January and statutory inspection days",
+      "stamps": 1,
+      "chars": [
+        "Nico"
+      ],
+      "series": [
+        "mus"
+      ],
+      "rules": [
+        "Oasis 21 i Center: Nico + μ’s.",
+        "Kanayama Tourist Information: School Idol Musical + Ikizurai-bu!",
+        "One stamp at each. No purchase-card scheme listed."
+      ],
+      "warnings": [
+        "Kanayama tourist information is NOT the Meitetsu Travel reward counter."
+      ],
+      "image": "assets/convention.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://www.mwt.co.jp/kokunai/chubu/special/lovelive2026/",
+      "x": "https://x.com/nagoyainfojp/status/2114643202313486378",
+      "lat": 35.1705798,
+      "lng": 136.9094715,
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-16"
+    },
+    {
+      "id": "convention-1",
+      "partner": "convention",
+      "name": "Nagoya Tourist Information",
+      "branch": "Kanayama Tourist Information",
+      "jp": "名古屋観光コンベンションビューロー 名古屋市金山観光案内所",
+      "tagline": "Group panels + a free photo stop",
+      "kind": "Photos",
+      "area": "Kanayama",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "9:00–19:00 (goods sales until 17:00)",
+      "closed": "29 December–1 January",
+      "stamps": 1,
+      "chars": [
+        "Nico"
+      ],
+      "series": [
+        "mus"
+      ],
+      "rules": [
+        "Oasis 21 i Center: Nico + μ’s.",
+        "Kanayama Tourist Information: School Idol Musical + Ikizurai-bu!",
+        "One stamp at each. No purchase-card scheme listed."
+      ],
+      "warnings": [
+        "Kanayama tourist information is NOT the Meitetsu Travel reward counter."
+      ],
+      "image": "assets/convention.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://www.mwt.co.jp/kokunai/chubu/special/lovelive2026/",
+      "x": "https://x.com/nagoyainfojp/status/2114643202313486378",
+      "lat": 35.1433255,
+      "lng": 136.9014746,
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-17"
+    },
+    {
+      "id": "uya-0",
+      "partner": "uya",
+      "name": "Hitsumabushi Uya",
+      "branch": "Meieki",
+      "jp": "ひつまぶし う家 名駅店",
+      "tagline": "Eel meal with Ceras or Miracle",
+      "kind": "Food",
+      "area": "Nagoya Station",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "11:30–15:00 (last order 14:00) / 17:00–21:30 (last order 20:30)",
+      "closed": "No regular closure listed",
+      "stamps": 1,
+      "chars": [
+        "Ceras"
+      ],
+      "series": [
+        "hasu"
+      ],
+      "rules": [
+        "Meieki branch: Ceras. Yagoto main branch: Miracle. Each has one stamp and a panel.",
+        "Order a menu item priced ¥2,000 or more for one novelty card per person per transaction.",
+        "Ask at checkout: ノベルティカードをください。"
+      ],
+      "warnings": [
+        "Several cheaper items may not satisfy the single-item wording. Lunch/dinner breaks and last orders apply.",
+        "11月9日(月)は臨時休業"
+      ],
+      "image": "assets/uya.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://www.mwt.co.jp/kokunai/chubu/special/lovelive2026/",
+      "x": "https://x.com/hitsumabushiuya/status/2114643202288611555",
+      "lat": 35.1699736,
+      "lng": 136.8860368,
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-13"
+    },
+    {
+      "id": "uya-1",
+      "partner": "uya",
+      "name": "Hitsumabushi Uya",
+      "branch": "Yagoto Main",
+      "jp": "ひつまぶし う家 八事本店",
+      "tagline": "Eel meal with Ceras or Miracle",
+      "kind": "Food",
+      "area": "Yagoto",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "Weekdays 11:00–14:30 (last order 14:00) / 17:30–21:00 (last order 20:00); Weekends/holidays 11:00–14:30 (last order 14:00) / 17:00–21:00 (last order 20:00)",
+      "closed": "",
+      "stamps": 1,
+      "chars": [
+        "Miracle"
+      ],
+      "series": [
+        "ikzl"
+      ],
+      "rules": [
+        "Meieki branch: Ceras. Yagoto main branch: Miracle. Each has one stamp and a panel.",
+        "Order a menu item priced ¥2,000 or more for one novelty card per person per transaction.",
+        "Ask at checkout: ノベルティカードをください。"
+      ],
+      "warnings": [
+        "Several cheaper items may not satisfy the single-item wording. Lunch/dinner breaks and last orders apply."
+      ],
+      "image": "assets/uya.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://www.mwt.co.jp/kokunai/chubu/special/lovelive2026/",
+      "x": "https://x.com/hitsumabushiuya/status/2114643202288611555",
+      "lat": 35.1314761,
+      "lng": 136.9555056,
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-13"
+    },
+    {
+      "id": "myokoen-0",
+      "partner": "myokoen",
+      "name": "Myokoen Tea",
+      "branch": "Main store",
+      "jp": "妙香園 本店",
+      "tagline": "Choose your acrylic coaster",
+      "kind": "Food",
+      "area": "Kanayama",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "9:00–18:00",
+      "closed": "",
+      "stamps": 1,
+      "chars": [
+        "Hanamaru",
+        "Sayaka",
+        "Sumire"
+      ],
+      "series": [
+        "aqours",
+        "hasu",
+        "liella"
+      ],
+      "rules": [
+        "Hojicha tea in heart tin: ¥2,640. Pound cake + clear card: ¥3,240. Master announcement lists one-per-person product restrictions.",
+        "Strawberry hojicha fruit tea: ¥1,540, takeaway, with one SELECTABLE acrylic coaster from three designs. Only Sakaechika + Atsuta nagAya.",
+        "Regular purchase cards: random, four designs; one per eligible ¥2,000. TEA STORE eat-in/takeaway items are excluded.",
+        "The drink earns its coaster, not the regular spending card. Main, Sun Road and Sakaechika have stamps. Atsuta does not."
+      ],
+      "warnings": [
+        "Hanamaru, Sumire and Sayaka collaboration. Do not add drinks to reach the regular card threshold."
+      ],
+      "image": "assets/myokoen.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://myokoen.com/news/1093/",
+      "x": "https://x.com/myokoen_758/status/2114643194033983671",
+      "lat": 35.1398013,
+      "lng": 136.9035634,
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [
+        {
+          "jp": "あつたnagAya店",
+          "hours": "10:00〜17:00（LO 16:00）",
+          "lat": 35.1259202,
+          "lng": 136.9115101,
+          "note": "パネルあり"
+        }
+      ],
+      "suggested": "2026-11-17"
+    },
+    {
+      "id": "myokoen-1",
+      "partner": "myokoen",
+      "name": "Myokoen Tea",
+      "branch": "Sakaechika",
+      "jp": "妙香園 サカエチカ店",
+      "tagline": "Choose your acrylic coaster",
+      "kind": "Food",
+      "area": "Sakae",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "10:00–20:00",
+      "closed": "",
+      "stamps": 1,
+      "chars": [
+        "Hanamaru",
+        "Sayaka",
+        "Sumire"
+      ],
+      "series": [
+        "aqours",
+        "hasu",
+        "liella"
+      ],
+      "rules": [
+        "Hojicha tea in heart tin: ¥2,640. Pound cake + clear card: ¥3,240. Master announcement lists one-per-person product restrictions.",
+        "Strawberry hojicha fruit tea: ¥1,540, takeaway, with one SELECTABLE acrylic coaster from three designs. Only Sakaechika + Atsuta nagAya.",
+        "Regular purchase cards: random, four designs; one per eligible ¥2,000. TEA STORE eat-in/takeaway items are excluded.",
+        "The drink earns its coaster, not the regular spending card. Main, Sun Road and Sakaechika have stamps. Atsuta does not."
+      ],
+      "warnings": [
+        "Hanamaru, Sumire and Sayaka collaboration. Do not add drinks to reach the regular card threshold."
+      ],
+      "image": "assets/myokoen.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://myokoen.com/news/1093/",
+      "x": "https://x.com/myokoen_758/status/2114643194033983671",
+      "lat": 35.1695754,
+      "lng": 136.9067532,
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [
+        {
+          "jp": "あつたnagAya店",
+          "hours": "10:00〜17:00（LO 16:00）",
+          "lat": 35.1259202,
+          "lng": 136.9115101,
+          "note": "パネルあり"
+        }
+      ],
+      "suggested": "2026-11-16"
+    },
+    {
+      "id": "myokoen-2",
+      "partner": "myokoen",
+      "name": "Myokoen Tea",
+      "branch": "Sun Road",
+      "jp": "妙香園 サンロード店",
+      "tagline": "Choose your acrylic coaster",
+      "kind": "Food",
+      "area": "Nagoya Station",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "10:00–20:30",
+      "closed": "",
+      "stamps": 1,
+      "chars": [
+        "Hanamaru",
+        "Sayaka",
+        "Sumire"
+      ],
+      "series": [
+        "aqours",
+        "hasu",
+        "liella"
+      ],
+      "rules": [
+        "Hojicha tea in heart tin: ¥2,640. Pound cake + clear card: ¥3,240. Master announcement lists one-per-person product restrictions.",
+        "Strawberry hojicha fruit tea: ¥1,540, takeaway, with one SELECTABLE acrylic coaster from three designs. Only Sakaechika + Atsuta nagAya.",
+        "Regular purchase cards: random, four designs; one per eligible ¥2,000. TEA STORE eat-in/takeaway items are excluded.",
+        "The drink earns its coaster, not the regular spending card. Main, Sun Road and Sakaechika have stamps. Atsuta does not."
+      ],
+      "warnings": [
+        "Hanamaru, Sumire and Sayaka collaboration. Do not add drinks to reach the regular card threshold."
+      ],
+      "image": "assets/myokoen.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://myokoen.com/news/1093/",
+      "x": "https://x.com/myokoen_758/status/2114643194033983671",
+      "lat": 35.1700448,
+      "lng": 136.8845652,
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [
+        {
+          "jp": "あつたnagAya店",
+          "hours": "10:00〜17:00（LO 16:00）",
+          "lat": 35.1259202,
+          "lng": 136.9115101,
+          "note": "パネルあり"
+        }
+      ],
+      "suggested": "2026-11-13"
+    },
+    {
+      "id": "myokoen-3",
+      "partner": "myokoen",
+      "name": "Myokoen Tea",
+      "branch": "Atsuta nagAya",
+      "jp": "妙香園 あつたnagAya店",
+      "tagline": "Choose your acrylic coaster",
+      "kind": "Food",
+      "area": "Atsuta",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "10:00–17:00 (last order 16:00)",
+      "closed": "",
+      "stamps": 0,
+      "chars": [
+        "Hanamaru",
+        "Sayaka",
+        "Sumire"
+      ],
+      "series": [
+        "aqours",
+        "hasu",
+        "liella"
+      ],
+      "rules": [
+        "Hojicha tea in heart tin: ¥2,640. Pound cake + clear card: ¥3,240. Master announcement lists one-per-person product restrictions.",
+        "Strawberry hojicha fruit tea: ¥1,540, takeaway, with one SELECTABLE acrylic coaster from three designs. Only Sakaechika + Atsuta nagAya.",
+        "Regular purchase cards: random, four designs; one per eligible ¥2,000. TEA STORE eat-in/takeaway items are excluded.",
+        "The drink earns its coaster, not the regular spending card. Main, Sun Road and Sakaechika have stamps. Atsuta does not."
+      ],
+      "warnings": [
+        "Hanamaru, Sumire and Sayaka collaboration. Do not add drinks to reach the regular card threshold."
+      ],
+      "image": "assets/myokoen.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://myokoen.com/news/1093/",
+      "x": "https://x.com/myokoen_758/status/2114643194033983671",
+      "lat": 35.1259202,
+      "lng": 136.9115101,
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [
+        {
+          "jp": "あつたnagAya店",
+          "hours": "10:00〜17:00（LO 16:00）",
+          "lat": 35.1259202,
+          "lng": 136.9115101,
+          "note": "パネルあり"
+        }
+      ],
+      "suggested": "2026-11-17"
+    },
+    {
+      "id": "meitetsukyosho-0",
+      "partner": "meitetsukyosho",
+      "name": "Mekyopa Center",
+      "branch": "Sakae",
+      "jp": "名鉄協商 めきょぱセンター",
+      "tagline": "Kasumi panel, flags and bikes",
+      "kind": "Photos",
+      "area": "Sakae",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "09:00–18:00 (supplied sheet; recheck)",
+      "closed": "",
+      "stamps": 1,
+      "chars": [
+        "Kasumi"
+      ],
+      "series": [
+        "niji"
+      ],
+      "rules": [
+        "One stamp and Kasumi panel at Mekyopa Center, near Sakae Exit 15.",
+        "Thirty Cariteco shared bikes have collaboration dress-guard decorations. Selected parking lots have flags.",
+        "Parking lots are photo extras, not extra rally stamp stops. No goods/card scheme listed."
+      ],
+      "warnings": [
+        "No bike rental is required. Sheet lists 9:00–18:00; recheck before a dedicated visit."
+      ],
+      "image": "assets/meitetsukyosho.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://www.mwt.co.jp/kokunai/chubu/special/lovelive2026/",
+      "x": "https://x.com/mkp_jp/status/2114643385713823917",
+      "lat": 35.1687207,
+      "lng": 136.9084662,
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [
+        {
+          "jp": "ナゴヤドーム西",
+          "hours": "Not checked",
+          "lat": 35.1860109,
+          "lng": 136.9446058,
+          "note": "コラボのぼり"
+        },
+        {
+          "jp": "池下北第７",
+          "hours": "Not checked",
+          "lat": 35.1687843,
+          "lng": 136.9448894,
+          "note": "コラボのぼり"
+        },
+        {
+          "jp": "池下北第２",
+          "hours": "Not checked",
+          "lat": 35.1686215,
+          "lng": 136.9455154,
+          "note": "コラボのぼり"
+        },
+        {
+          "jp": "吹上第２",
+          "hours": "Not checked",
+          "lat": 35.1605073,
+          "lng": 136.9352895,
+          "note": "コラボのぼり"
+        },
+        {
+          "jp": "総合リハビリセンター駅北",
+          "hours": "Not checked",
+          "lat": 35.1292222,
+          "lng": 136.9578139,
+          "note": "コラボのぼり"
+        },
+        {
+          "jp": "神宮前北",
+          "hours": "Not checked",
+          "lat": 35.1266566,
+          "lng": 136.9109481,
+          "note": "コラボのぼり"
+        },
+        {
+          "jp": "金山駅南第２",
+          "hours": "Not checked",
+          "lat": 35.1409332,
+          "lng": 136.9023919,
+          "note": "コラボのぼり"
+        },
+        {
+          "jp": "常滑駅前",
+          "hours": "Not checked",
+          "lat": 34.8894953,
+          "lng": 136.8348397,
+          "note": "コラボのぼり"
+        },
+        {
+          "jp": "烏森駅東",
+          "hours": "Not checked",
+          "lat": 35.1534339,
+          "lng": 136.864548,
+          "note": "コラボのぼり"
+        },
+        {
+          "jp": "中村公園第１３",
+          "hours": "Not checked",
+          "lat": 35.1675088,
+          "lng": 136.8562008,
+          "note": "コラボのぼり"
+        },
+        {
+          "jp": "中村公園第１０",
+          "hours": "Not checked",
+          "lat": 35.1666238,
+          "lng": 136.8563497,
+          "note": "コラボのぼり"
+        },
+        {
+          "jp": "松原町第４",
+          "hours": "Not checked",
+          "lat": 35.1724943,
+          "lng": 136.8684117,
+          "note": "コラボのぼり"
+        },
+        {
+          "jp": "椿町第３",
+          "hours": "Not checked",
+          "lat": 35.1682072,
+          "lng": 136.8804535,
+          "note": "コラボのぼり"
+        },
+        {
+          "jp": "名駅３丁目ＰＢ",
+          "hours": "Not checked",
+          "lat": 35.1743352,
+          "lng": 136.8860321,
+          "note": "コラボのぼり"
+        },
+        {
+          "jp": "名駅４丁目",
+          "hours": "Not checked",
+          "lat": 35.1693866,
+          "lng": 136.8882711,
+          "note": "コラボのぼり"
+        },
+        {
+          "jp": "名駅４丁目第７",
+          "hours": "Not checked",
+          "lat": 35.1709822,
+          "lng": 136.8882494,
+          "note": "コラボのぼり"
+        },
+        {
+          "jp": "白川公園",
+          "hours": "Not checked",
+          "lat": 35.1653842,
+          "lng": 136.8981004,
+          "note": "コラボのぼり"
+        },
+        {
+          "jp": "伏見通御園",
+          "hours": "Not checked",
+          "lat": 35.1667862,
+          "lng": 136.897249,
+          "note": "コラボのぼり"
+        },
+        {
+          "jp": "錦3丁目第7",
+          "hours": "Not checked",
+          "lat": 35.1725344,
+          "lng": 136.9019131,
+          "note": "コラボのぼり"
+        },
+        {
+          "jp": "大須第５",
+          "hours": "Not checked",
+          "lat": 35.1596043,
+          "lng": 136.9005332,
+          "note": "コラボのぼり"
+        },
+        {
+          "jp": "大須ＭｕｌｔｉｎａＢｏｘ（マルチナボックス）駐車場",
+          "hours": "Not checked",
+          "lat": 35.1603974,
+          "lng": 136.9058504,
+          "note": "コラボのぼり"
+        },
+        {
+          "jp": "栄Ｍ",
+          "hours": "Not checked",
+          "lat": 35.1661004,
+          "lng": 136.9100764,
+          "note": "コラボのぼり"
+        },
+        {
+          "jp": "すいほう園",
+          "hours": "Not checked",
+          "lat": 35.1682003,
+          "lng": 136.9105389,
+          "note": "コラボのぼり"
+        }
+      ],
+      "suggested": "2026-11-16"
+    },
+    {
+      "id": "meitetsu-souken-0",
+      "partner": "meitetsu-souken",
+      "name": "Nagomya ESCA",
+      "branch": "ESCA",
+      "jp": "名鉄生活創研 なごみゃエスカ店",
+      "tagline": "Rurino stop beside Nagoya Station",
+      "kind": "Photos",
+      "area": "Nagoya Station",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "10:00–20:30",
+      "closed": "Follows ESCA shopping-centre closure days",
+      "stamps": 1,
+      "chars": [
+        "Rurino"
+      ],
+      "series": [
+        "hasu"
+      ],
+      "rules": [
+        "One stamp and Rurino panel. No collaboration goods or purchase-card scheme listed.",
+        "In ESCA underground shopping street on the west side of Nagoya Station."
+      ],
+      "warnings": [],
+      "image": "assets/meitetsu-souken.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://www.mwt.co.jp/kokunai/chubu/special/lovelive2026/",
+      "x": "https://x.com/MWT_Travel/status/2114643194574991464",
+      "lat": 35.1698128,
+      "lng": 136.8804703,
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-13"
+    },
+    {
+      "id": "yabaton-0",
+      "partner": "yabaton",
+      "name": "Yabaton",
+      "branch": "YABATON SHOP",
+      "jp": "矢場とん YABATON SHOP おうち de 矢場とん",
+      "tagline": "Miso-katsu + You / Keke cards",
+      "kind": "Food",
+      "area": "Fushimi / Osu",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "11:00–21:00",
+      "closed": "No regular closure listed",
+      "stamps": 2,
+      "chars": [
+        "Keke",
+        "You"
+      ],
+      "series": [
+        "aqours",
+        "liella"
+      ],
+      "rules": [
+        "Two stamps at YABATON SHOP only. Do not confuse it with nearby Yabacho main restaurant.",
+        "Eligible food/shopping ¥2,000+: request one random card per person per transaction. Three designs.",
+        "Panels at YABATON SHOP, Sakae LACHIC, Sakae Centrise, Castle Kinshachi Yokocho, ESCA, Mitsui North, Centrair and Dome-mae mall."
+      ],
+      "warnings": [
+        "Other branches can have purchase cards without panels or stamps."
+      ],
+      "image": "assets/yabaton.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://www.mwt.co.jp/kokunai/chubu/special/lovelive2026/",
+      "x": "https://x.com/YabatonO/status/2114643208194134358",
+      "lat": 35.1617987,
+      "lng": 136.9061933,
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [
+        {
+          "jp": "矢場町本店",
+          "hours": "11:00〜21:00",
+          "lat": 35.1616781,
+          "lng": 136.9062361,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "栄松坂屋店",
+          "hours": "平日 11:00〜15:00（LO 14:30）／17:00〜22:00（LO 21:30）、土日祝 11:00〜22:00（LO 21:30）",
+          "lat": 35.1646778,
+          "lng": 136.9080861,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "栄ＬＡＣＨＩＣ店",
+          "hours": "11:00〜22:00（LO 21:30）",
+          "lat": 35.1673585,
+          "lng": 136.9081339,
+          "note": "パネルあり"
+        },
+        {
+          "jp": "栄セントライズ店",
+          "hours": "平日 11:00〜15:00（LO 14:30）／17:00〜22:00（LO 21:30）、土日祝 11:00〜23:00（LO 22:30）",
+          "lat": 35.1679811,
+          "lng": 136.905446,
+          "note": "パネルあり"
+        },
+        {
+          "jp": "名古屋城金シャチ横丁店",
+          "hours": "10:30〜17:30（LO 17:00）",
+          "lat": 35.1828827,
+          "lng": 136.8991995,
+          "note": "パネルあり"
+        },
+        {
+          "jp": "名古屋駅エスカ店",
+          "hours": "11:00〜22:00（LO 21:30）",
+          "lat": 35.1709921,
+          "lng": 136.8797233,
+          "note": "パネルあり"
+        },
+        {
+          "jp": "名古屋駅三井ビル北館店",
+          "hours": "11:00〜22:00（LO 21:30）",
+          "lat": 35.1687756,
+          "lng": 136.8852761,
+          "note": "パネルあり"
+        },
+        {
+          "jp": "名古屋駅ルーセント店",
+          "hours": "11:00〜22:00（LO 21:30）",
+          "lat": 35.1749091,
+          "lng": 136.8811366,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "中部国際空港店",
+          "hours": "10:00〜21:20（LO 21:00）、物販・持ち帰りの一部は8:00〜",
+          "lat": 34.8585151,
+          "lng": 136.8148075,
+          "note": "パネルあり"
+        },
+        {
+          "jp": "イオンモールナゴヤドーム前店",
+          "hours": "11:00〜22:00（LO 21:30）",
+          "lat": 35.1870942,
+          "lng": 136.9444751,
+          "note": "パネルあり"
+        },
+        {
+          "jp": "昔の矢場とん 大須観音本店",
+          "hours": "11:00〜21:00（LO 20:30）",
+          "lat": 35.1596073,
+          "lng": 136.8998569,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "豊田Ｔ－ＦＡＣＥ店",
+          "hours": "11:00〜22:00（LO 21:00）",
+          "lat": 35.0876081,
+          "lng": 137.155227,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "NEOPASA岡崎店",
+          "hours": "24時間営業",
+          "lat": 35.0339637,
+          "lng": 137.2224526,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "栄 松坂屋地下店",
+          "hours": "10:00〜20:00",
+          "lat": 35.1654625,
+          "lng": 136.9078118,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "名古屋駅ジェイアールタカシマヤ店",
+          "hours": "10:00〜20:00",
+          "lat": 35.1711166,
+          "lng": 136.8833906,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "JR名古屋駅店",
+          "hours": "7:00〜21:00",
+          "lat": 35.1690306,
+          "lng": 136.8818247,
+          "note": "Extra branch; no rally stamp"
+        }
+      ],
+      "suggested": "2026-11-13"
+    },
+    {
+      "id": "yamamotoya-0",
+      "partner": "yamamotoya",
+      "name": "Okute Yamamotoya",
+      "branch": "Okute / Fukiage",
+      "jp": "大久手 山本屋 大久手店",
+      "tagline": "Four branches, four characters",
+      "kind": "Food",
+      "area": "East Nagoya",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "11:00–22:00",
+      "closed": "No regular closure listed from 1 October 2026",
+      "stamps": 1,
+      "chars": [
+        "Polka"
+      ],
+      "series": [
+        "ikzl"
+      ],
+      "rules": [
+        "¥2,000+ spend: one card per transaction. Design differs by branch.",
+        "Okute: Polka. Sakuradori Otsu: Natsumi. Jingu-mae: Kanata. Ozone: Anzu.",
+        "One stamp at each. Okute has a panel/wall display; other branches use wall stickers."
+      ],
+      "warnings": [
+        "Use the exact participating Okute Yamamotoya branches. Similar restaurant names are different businesses."
+      ],
+      "image": "assets/yamamotoya.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://www.mwt.co.jp/kokunai/chubu/special/lovelive2026/",
+      "x": "https://x.com/yamamotoya_miso",
+      "lat": 35.161484,
+      "lng": 136.9364074,
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-13"
+    },
+    {
+      "id": "yamamotoya-1",
+      "partner": "yamamotoya",
+      "name": "Okute Yamamotoya",
+      "branch": "Jingu-mae",
+      "jp": "大久手 山本屋 神宮前店",
+      "tagline": "Four branches, four characters",
+      "kind": "Food",
+      "area": "Atsuta",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "Weekdays 11:00–20:00 (last order 19:30) / Weekends/holidays 10:00–20:00 (last order 19:30)",
+      "closed": "No regular closure, but temporary closures possible",
+      "stamps": 1,
+      "chars": [
+        "Kanata"
+      ],
+      "series": [
+        "niji"
+      ],
+      "rules": [
+        "¥2,000+ spend: one card per transaction. Design differs by branch.",
+        "Okute: Polka. Sakuradori Otsu: Natsumi. Jingu-mae: Kanata. Ozone: Anzu.",
+        "One stamp at each. Okute has a panel/wall display; other branches use wall stickers."
+      ],
+      "warnings": [
+        "Use the exact participating Okute Yamamotoya branches. Similar restaurant names are different businesses."
+      ],
+      "image": "assets/yamamotoya.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://www.mwt.co.jp/kokunai/chubu/special/lovelive2026/",
+      "x": "https://x.com/yamamotoya_miso",
+      "lat": 35.1261556,
+      "lng": 136.9116522,
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-17"
+    },
+    {
+      "id": "yamamotoya-2",
+      "partner": "yamamotoya",
+      "name": "Okute Yamamotoya",
+      "branch": "Sakuradori Otsu",
+      "jp": "大久手 山本屋 桜通大津店",
+      "tagline": "Four branches, four characters",
+      "kind": "Food",
+      "area": "Sakae",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "11:00–22:00",
+      "closed": "Open daily except New Year holidays",
+      "stamps": 1,
+      "chars": [
+        "Natsumi"
+      ],
+      "series": [
+        "liella"
+      ],
+      "rules": [
+        "¥2,000+ spend: one card per transaction. Design differs by branch.",
+        "Okute: Polka. Sakuradori Otsu: Natsumi. Jingu-mae: Kanata. Ozone: Anzu.",
+        "One stamp at each. Okute has a panel/wall display; other branches use wall stickers."
+      ],
+      "warnings": [
+        "Use the exact participating Okute Yamamotoya branches. Similar restaurant names are different businesses."
+      ],
+      "image": "assets/yamamotoya.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://www.mwt.co.jp/kokunai/chubu/special/lovelive2026/",
+      "x": "https://x.com/yamamotoya_miso",
+      "lat": 35.1741835,
+      "lng": 136.9065618,
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-16"
+    },
+    {
+      "id": "yamamotoya-3",
+      "partner": "yamamotoya",
+      "name": "Okute Yamamotoya",
+      "branch": "Ozone",
+      "jp": "大久手 山本屋 大曽根店",
+      "tagline": "Four branches, four characters",
+      "kind": "Food",
+      "area": "Ozone / Dome",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "11:00–22:00",
+      "closed": "No regular closure listed",
+      "stamps": 1,
+      "chars": [
+        "Anzu"
+      ],
+      "series": [
+        "sim"
+      ],
+      "rules": [
+        "¥2,000+ spend: one card per transaction. Design differs by branch.",
+        "Okute: Polka. Sakuradori Otsu: Natsumi. Jingu-mae: Kanata. Ozone: Anzu.",
+        "One stamp at each. Okute has a panel/wall display; other branches use wall stickers."
+      ],
+      "warnings": [
+        "Use the exact participating Okute Yamamotoya branches. Similar restaurant names are different businesses."
+      ],
+      "image": "assets/yamamotoya.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://www.mwt.co.jp/kokunai/chubu/special/lovelive2026/",
+      "x": "https://x.com/yamamotoya_miso",
+      "lat": 35.1914683,
+      "lng": 136.9359879,
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-13"
+    },
+    {
+      "id": "wakashachiya-0",
+      "partner": "wakashachiya",
+      "name": "Wakashachiya",
+      "branch": "BINO Sakae",
+      "jp": "若鯱家 BINO栄店",
+      "tagline": "Curry udon + Rin / Shizuku",
+      "kind": "Food",
+      "area": "Sakae",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "11:00–21:00 (last order 20:15)",
+      "closed": "",
+      "stamps": 1,
+      "chars": [
+        "Rin"
+      ],
+      "series": [
+        "mus"
+      ],
+      "rules": [
+        "BINO Sakae B1F: Rin stamp + panel. AEON Town Chikusa: Shizuku stamp, no panel.",
+        "¥2,000+ spend: one novelty card per person per transaction. One design listed.",
+        "Other participating branches offer the card but not rally stamps."
+      ],
+      "warnings": [
+        "Dome-mae and Centrair are convenient meal branches, not stamp stops."
+      ],
+      "image": "assets/wakashachiya.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://www.mwt.co.jp/kokunai/chubu/special/lovelive2026/",
+      "x": "https://x.com/MWT_Travel/status/2114643197259297145",
+      "lat": 35.1692591,
+      "lng": 136.906486,
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [
+        {
+          "jp": "錦店",
+          "hours": "平日・土曜 11:30〜14:30（LO 14:00）／17:00〜翌3:00（LO 2:30）",
+          "lat": 35.1713804,
+          "lng": 136.9041448,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "名古屋駅エスカ店",
+          "hours": "平日 11:00〜15:00（LO 14:30）／17:00〜22:00（LO 21:15）、土日祝 11:00〜22:00（LO 21:15）",
+          "lat": 35.1708516,
+          "lng": 136.8798491,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "パレマルシェ池下店",
+          "hours": "11:00〜21:00（LO 20:15）",
+          "lat": 35.1673621,
+          "lng": 136.9467199,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "アピタ名古屋北店",
+          "hours": "平日 11:00〜15:00（LO 14:30）／17:00〜21:00（LO 20:15）、土日祝 11:00〜21:00（LO 20:15）",
+          "lat": 35.2096485,
+          "lng": 136.9226995,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "アピタ千代田橋店",
+          "hours": "平日 11:00〜15:00（LO 14:30）／17:00〜21:00（LO 20:15）、土日祝 11:00〜21:00（LO 20:15）",
+          "lat": 35.1867782,
+          "lng": 136.9690397,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "アピタ名古屋南店",
+          "hours": "平日 11:00〜15:00（LO 14:30）／17:00〜21:00（LO 20:15）、土日祝 11:00〜21:00（LO 20:15）",
+          "lat": 35.1028077,
+          "lng": 136.9129022,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "アピタ鳴海店",
+          "hours": "平日 11:00〜15:00（LO 14:30）／17:00〜22:00（LO 20:45）、土日祝 11:00〜22:00（LO 20:45）",
+          "lat": 35.0940356,
+          "lng": 136.9583271,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "イオンモールナゴヤドーム前店",
+          "hours": "11:00〜22:00（LO 21:15）",
+          "lat": 35.1871052,
+          "lng": 136.9449693,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "イオンモール名古屋茶屋店",
+          "hours": "11:00〜21:00（LO 20:15）",
+          "lat": 35.1032951,
+          "lng": 136.8256016,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "中部国際空港店",
+          "hours": "6:30〜22:00（LO 21:15）",
+          "lat": 34.8595168,
+          "lng": 136.8144044,
+          "note": "Extra branch; no rally stamp"
+        }
+      ],
+      "suggested": "2026-11-16"
+    },
+    {
+      "id": "wakashachiya-1",
+      "partner": "wakashachiya",
+      "name": "Wakashachiya",
+      "branch": "AEON Town Chikusa",
+      "jp": "若鯱家 イオンタウン千種店",
+      "tagline": "Curry udon + Rin / Shizuku",
+      "kind": "Food",
+      "area": "East Nagoya",
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "hours": "11:00–21:00 (last order 20:15)",
+      "closed": "",
+      "stamps": 1,
+      "chars": [
+        "Shizuku"
+      ],
+      "series": [
+        "niji"
+      ],
+      "rules": [
+        "BINO Sakae B1F: Rin stamp + panel. AEON Town Chikusa: Shizuku stamp, no panel.",
+        "¥2,000+ spend: one novelty card per person per transaction. One design listed.",
+        "Other participating branches offer the card but not rally stamps."
+      ],
+      "warnings": [
+        "Dome-mae and Centrair are convenient meal branches, not stamp stops."
+      ],
+      "image": "assets/wakashachiya.jpg",
+      "imageLabel": "Official collaboration artwork; tap to enlarge",
+      "source": "https://www.mwt.co.jp/kokunai/chubu/special/lovelive2026/",
+      "x": "https://x.com/MWT_Travel/status/2114643197259297145",
+      "lat": 35.1614669,
+      "lng": 136.9241457,
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [
+        {
+          "jp": "錦店",
+          "hours": "平日・土曜 11:30〜14:30（LO 14:00）／17:00〜翌3:00（LO 2:30）",
+          "lat": 35.1713804,
+          "lng": 136.9041448,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "名古屋駅エスカ店",
+          "hours": "平日 11:00〜15:00（LO 14:30）／17:00〜22:00（LO 21:15）、土日祝 11:00〜22:00（LO 21:15）",
+          "lat": 35.1708516,
+          "lng": 136.8798491,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "パレマルシェ池下店",
+          "hours": "11:00〜21:00（LO 20:15）",
+          "lat": 35.1673621,
+          "lng": 136.9467199,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "アピタ名古屋北店",
+          "hours": "平日 11:00〜15:00（LO 14:30）／17:00〜21:00（LO 20:15）、土日祝 11:00〜21:00（LO 20:15）",
+          "lat": 35.2096485,
+          "lng": 136.9226995,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "アピタ千代田橋店",
+          "hours": "平日 11:00〜15:00（LO 14:30）／17:00〜21:00（LO 20:15）、土日祝 11:00〜21:00（LO 20:15）",
+          "lat": 35.1867782,
+          "lng": 136.9690397,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "アピタ名古屋南店",
+          "hours": "平日 11:00〜15:00（LO 14:30）／17:00〜21:00（LO 20:15）、土日祝 11:00〜21:00（LO 20:15）",
+          "lat": 35.1028077,
+          "lng": 136.9129022,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "アピタ鳴海店",
+          "hours": "平日 11:00〜15:00（LO 14:30）／17:00〜22:00（LO 20:45）、土日祝 11:00〜22:00（LO 20:45）",
+          "lat": 35.0940356,
+          "lng": 136.9583271,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "イオンモールナゴヤドーム前店",
+          "hours": "11:00〜22:00（LO 21:15）",
+          "lat": 35.1871052,
+          "lng": 136.9449693,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "イオンモール名古屋茶屋店",
+          "hours": "11:00〜21:00（LO 20:15）",
+          "lat": 35.1032951,
+          "lng": 136.8256016,
+          "note": "Extra branch; no rally stamp"
+        },
+        {
+          "jp": "中部国際空港店",
+          "hours": "6:30〜22:00（LO 21:15）",
+          "lat": 34.8595168,
+          "lng": 136.8144044,
+          "note": "Extra branch; no rally stamp"
+        }
+      ],
+      "suggested": "2026-11-13"
+    },
+    {
+      "id": "royal",
+      "partner": "royal",
+      "name": "Royal Holiday pop-up",
+      "branch": "Gee!Store Nagoya",
+      "jp": "ジーストア名古屋 Royal Holiday",
+      "tagline": "Ends Nov 15 • merchandise + two bonuses",
+      "area": "Fushimi / Osu",
+      "kind": "Shopping",
+      "start": "2026-11-07",
+      "end": "2026-11-15",
+      "hours": "Weekdays 11:00–20:00; weekends 10:00–20:00",
+      "stamps": 0,
+      "chars": [],
+      "series": [],
+      "rules": [
+        "Free entry. Osu 3-11-34. Magical-girl-style DREAM LIVE!! merchandise.",
+        "Each eligible ¥3,000 gives a random postcard (3 designs) AND a Chika manga-illustration PR card. PR cards capped at 4 per transaction.",
+        "Diorama stand ¥2,200; mini stand keychain ¥1,320; acrylic badge ¥880; random square badge ¥550; random acrylic-card keychain ¥770.",
+        "Stand + acrylic badge = ¥3,080, reaching the bonus threshold."
+      ],
+      "warnings": [
+        "Certain acrylic pass-case versions were withdrawn for defects, including Ruby, Riko, Dia, Kotori, Maki, Nozomi, Kosuzu, Hime. Indexed official X notice Oct 23; do not rely on the old product list."
+      ],
+      "image": "",
+      "imageLabel": "Official announcement image",
+      "source": "https://www.geestore.com/geenet/event/15310.html",
+      "x": "https://x.com/bushi_creative",
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-13"
+    },
+    {
+      "id": "docomo",
+      "partner": "docomo",
+      "name": "Docomo shop giveaway",
+      "branch": "d garden Nagoya Sakae",
+      "jp": "d garden名古屋栄店",
+      "tagline": "Choose sticker before Nov 16 or poster after",
+      "area": "Sakae",
+      "kind": "Free gift",
+      "start": "2026-11-02",
+      "end": "2026-11-26",
+      "hours": "Check branch hours",
+      "stamps": 0,
+      "chars": [],
+      "series": [],
+      "rules": [
+        "Sakaechika B1F in front of Daido Steel PHOENIX Square. Answer the staff questionnaire.",
+        "Nov 2–15: one random sticker (20 designs). Nov 16–26: 63-member group clear poster.",
+        "One redemption per person during the campaign: sticker OR poster, not both. Limited quantities.",
+        "This shop questionnaire offer is separate from the concert d Anime Store membership bonus."
+      ],
+      "warnings": [],
+      "image": "",
+      "imageLabel": "Official announcement image",
+      "source": "https://animestore.docomo.ne.jp/animestore/CP/CP00002156",
+      "x": "",
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-16"
+    },
+    {
+      "id": "police",
+      "partner": "police",
+      "name": "Nijigasaki Police Fair",
+      "branch": "Gamers Nagoya",
+      "jp": "ゲーマーズ名古屋店",
+      "tagline": "Police artwork + random clear bookmarks",
+      "area": "Fushimi / Osu",
+      "kind": "Shopping",
+      "start": "2026-10-31",
+      "end": "2026-11-20",
+      "hours": "Check store hours",
+      "stamps": 0,
+      "chars": [],
+      "series": [
+        "niji"
+      ],
+      "rules": [
+        "Every ¥2,200 of qualifying Nijigasaki character goods earns one random clear bookmark (13 designs).",
+        "Police acrylic stands announced at ¥1,760. A stand alone is below the threshold.",
+        "Ask whether this combines with the anniversary profile-card fair; stacking is not confirmed."
+      ],
+      "warnings": [],
+      "image": "",
+      "imageLabel": "Official announcement image",
+      "source": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7967",
+      "x": "",
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-13"
+    },
+    {
+      "id": "retail",
+      "partner": "retail",
+      "name": "Fest anniversary fair",
+      "branch": "Gamers / Animate Nagoya / PARCO",
+      "jp": "Fest anniversary fair",
+      "tagline": "Profile cards with eligible purchases",
+      "area": "Nagoya Station",
+      "kind": "Shopping",
+      "start": "2026-11-10",
+      "end": "2026-12-13",
+      "hours": "Check chosen store hours",
+      "stamps": 0,
+      "chars": [],
+      "series": [],
+      "rules": [
+        "Eligible goods earn a random 15th-anniversary member profile card per ¥1,100, calculated within the SAME series. 73 designs total.",
+        "¥600 Aqours + ¥600 Liella! does not make an eligible ¥1,100 series subtotal.",
+        "Music/video releases dated Nov 10 or later are excluded.",
+        "Gamers Nagoya also has a draw per ¥3,000 qualifying purchase; ask staff about exact eligible products."
+      ],
+      "warnings": [
+        "Detailed official retailer pages were inaccessible during research; terms checked through a reproduced announcement."
+      ],
+      "image": "",
+      "imageLabel": "Official announcement image",
+      "source": "https://animestari.com/lovelive/2026/11/05/news-439/",
+      "x": "",
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-13"
+    },
+    {
+      "id": "animate",
+      "partner": "animate",
+      "name": "15th anniversary exhibition",
+      "branch": "Dai-3 Taiko Building 6F",
+      "jp": "第3太閤ビル 椿町21-2",
+      "tagline": "Ends Nov 16 • standees and anniversary photos",
+      "area": "Nagoya Station",
+      "kind": "Photos",
+      "start": "2026-11-10",
+      "end": "2026-11-16",
+      "hours": "10:00–19:00",
+      "stamps": 0,
+      "chars": [],
+      "series": [],
+      "rules": [
+        "Full-size standees and anniversary key-visual photo spot.",
+        "Address: Tsubakicho 21-2, Dai-3 Taiko Building 6F. Separate venue 2–3 minutes from Animate Nagoya, not the main shop."
+      ],
+      "warnings": [],
+      "image": "",
+      "imageLabel": "Official announcement image",
+      "source": "https://animestari.com/lovelive/2026/11/05/news-439/",
+      "x": "",
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-13"
+    },
+    {
+      "id": "yokoi",
+      "partner": "yokoi",
+      "name": "Yokoi collaboration pasta",
+      "branch": "KITTE / Sumiyoshi / Nishiki",
+      "jp": "ヨコイ KITTE名古屋店",
+      "tagline": "Four days only • pasta + clear file",
+      "area": "Nagoya Station",
+      "kind": "Food",
+      "start": "2026-11-13",
+      "end": "2026-11-16",
+      "hours": "KITTE 11:00–22:00, last order 21:00",
+      "stamps": 0,
+      "chars": [],
+      "series": [],
+      "rules": [
+        "Order 永遠に羽ばたく♡15周年！ハートフルエビフライスパ: ¥2,500 with collaboration clear file.",
+        "Ankake spaghetti with fried shrimp and heart-shaped sakura denbu. Quantity limited.",
+        "KITTE B1F pairs with Aoyagi upstairs. Sumiyoshi: Monday closed, Sunday lunch only. Nishiki: Sunday closed.",
+        "Not part of the physical stamp rally. Go Nov 13 rather than relying on last-day stock."
+      ],
+      "warnings": [],
+      "image": "",
+      "imageLabel": "Official announcement image",
+      "source": "https://yokoi-anspa.jp/",
+      "x": "",
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-13"
+    },
+    {
+      "id": "kuppy",
+      "partner": "kuppy",
+      "name": "Kuppy Ramune PremiumShop",
+      "branch": "AEON Mall Nagoya Dome-mae 2F",
+      "jp": "イオンモールナゴヤドーム前",
+      "tagline": "Nov 13–16 • local candy-brand collaboration",
+      "area": "Ozone / Dome",
+      "kind": "Shopping",
+      "start": "2026-11-13",
+      "end": "2026-11-16",
+      "hours": "10:00–21:00",
+      "stamps": 0,
+      "chars": [],
+      "series": [],
+      "rules": [
+        "On the 2F bridge beside the food court. Six newly drawn member illustrations.",
+        "Concert booth also runs Nov 14 (09:30–about 21:00) and Nov 15 (09:30–about 20:00), north parking lot.",
+        "Numbered entry/queue limits may apply. Bring cash as backup."
+      ],
+      "warnings": [
+        "Final product prices, lineup and bonuses were not available in the accessible announcement. Check official X before buying."
+      ],
+      "image": "",
+      "imageLabel": "Official announcement image",
+      "source": "https://premiumshop.tokyo/lovelive-2611/",
+      "x": "https://x.com/LLSPremiumShop",
+      "status": "Lineup needs checking",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-13"
+    },
+    {
+      "id": "hasu",
+      "partner": "hasu",
+      "name": "Hasunosora Caravan Tour",
+      "branch": "LaLaport Minato AQULS 2F",
+      "jp": "ららぽーと名古屋みなとアクルス",
+      "tagline": "Free digital rally + Hasunosora goods",
+      "area": "Nagoya Port",
+      "kind": "Shopping",
+      "start": "2026-11-13",
+      "end": "2026-11-23",
+      "hours": "Weekdays 10:00–20:00; weekends 10:00–21:00",
+      "stamps": 0,
+      "chars": [],
+      "series": [
+        "hasu"
+      ],
+      "rules": [
+        "2F in front of main entrance. Standee photos and free DIGITAL stamp rally: scan QR at pop-up, visit 3 checkpoints, unlock photo frame. Separate from city stamp book.",
+        "Pop-up: each ¥2,000 gives random die-cut sticker; each ¥5,000 gives random larger sticker. Eight designs.",
+        "Other eligible mall shops: qualifying same-day ¥2,000 receipts earn random postcards. Receipts cannot be combined; pop-up purchases excluded. Redeem at pop-up.",
+        "Mitsui point members can get an extra postcard with membership display under announced conditions. Check excluded stores.",
+        "Nov 13–15: queue at 1F main entrance. Numbered tickets may begin 09:30.",
+        "Stand ¥1,980; tag/keychain ¥1,100; plate ¥2,750; random cards ¥550; clear shikishi ¥1,100; umbrella marker ¥880; ticket sticker ¥770."
+      ],
+      "warnings": [
+        "A ¥1,980 stand alone misses the ¥2,000 threshold. Stock is not live."
+      ],
+      "image": "",
+      "imageLabel": "Official announcement image",
+      "source": "https://mitsui-shopping-park.com/lalaport/minatoaquls/event/3665476.html",
+      "x": "https://x.com/LLP_CALAVAN2026",
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-18"
+    },
+    {
+      "id": "concert",
+      "partner": "concert",
+      "name": "Love Live! Fest",
+      "branch": "Vantelin Dome Nagoya",
+      "jp": "バンテリンドーム ナゴヤ",
+      "tagline": "Nov 14–15 • concerts and north parking-lot booths",
+      "area": "Ozone / Dome",
+      "kind": "Concert",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "hours": "Nov 14 doors 14:30 / show 16:30; Nov 15 doors 13:30 / show 15:30",
+      "stamps": 0,
+      "chars": [],
+      "series": [],
+      "rules": [
+        "Keep concert mornings for venue booths if you want several activities.",
+        "Most special booths are in the north parking-lot merchandise area. Individual opening hours differ.",
+        "Kuppy shop, LoveCa learn-to-play/card sales, ONKYO Aqours earbud demo, Docomo flower stand, mascot greetings.",
+        "CD/video booth: each ¥3,000 eligible spend earns random mini-shikishi, 12 designs; max 12 per transaction.",
+        "Anniversary special newspaper announced at ¥550; venue advance sale from Nov 14, general sale from Nov 16."
+      ],
+      "warnings": [
+        "Do not assume every outdoor booth is ticket-free. Verify final access map and schedules."
+      ],
+      "image": "",
+      "imageLabel": "Official announcement image",
+      "source": "https://www.lovelive-anime.jp/special/live/live_detail.php?p=15th_lovelivefest",
+      "x": "",
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-14"
+    },
+    {
+      "id": "truck",
+      "partner": "truck",
+      "name": "Concert kitchen car",
+      "branch": "North parking-lot event area",
+      "jp": "Concert kitchen car",
+      "tagline": "¥800 drink + random coaster from your chosen title",
+      "area": "Ozone / Dome",
+      "kind": "Food",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "hours": "Nov 14 09:30–16:30; Nov 15 09:30–15:30",
+      "stamps": 0,
+      "chars": [],
+      "series": [],
+      "rules": [
+        "Drinks ¥800. A: strawberry + lactic-acid milk drink + marshmallows (milk marked). B: strawberry + black tea + marshmallows.",
+        "Each drink: one coaster. Choose title, character is random within that title.",
+        "Three drinks bought together: Memories Snap bonus; menu offers choice of two designs per title. Confirm grouping at order.",
+        "Each transaction: up to 3 drinks per title, 21 total. Collect 3 drinks at a time.",
+        "Existing Uranohoshi/Yuigaoka kitchen-car stamp cards not stamped/redeemed."
+      ],
+      "warnings": [],
+      "image": "assets/truck.jpg",
+      "imageLabel": "Official announcement image",
+      "source": "https://animestari.com/lovelive/2026/11/05/news-437/",
+      "x": "",
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-14"
+    },
+    {
+      "id": "cans",
+      "partner": "cans",
+      "name": "Suntory label cans",
+      "branch": "Concert vending machines",
+      "jp": "Suntory label cans",
+      "tagline": "¥900 • peel-off character sticker",
+      "area": "Ozone / Dome",
+      "kind": "Shopping",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "hours": "Concert event hours; confirm final notice",
+      "stamps": 0,
+      "chars": [],
+      "series": [],
+      "rules": [
+        "¥900 each. 73 designs across 7 groups. Character is random within series. Peel label off as a sticker.",
+        "Oolong: μ’s, Nijigasaki, Hasunosora, Musical. Lemon squash: Aqours, Liella!, Ikizurai-bu!",
+        "Winning purchases can include a mini acrylic-keychain prize.",
+        "These Suntory cans have a specific venue exception. Do not open/discard inside the concert venue.",
+        "Selected nationwide machines sell Nov 16–Dec 13. Use series-specific locators in source; not every Suntory machine. No online sale announced."
+      ],
+      "warnings": [],
+      "image": "assets/cans.jpg",
+      "imageLabel": "Official announcement image",
+      "source": "https://animestari.com/lovelive/2026/11/06/news-444/",
+      "x": "",
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-14"
+    },
+    {
+      "id": "karaoke",
+      "partner": "karaoke",
+      "name": "JOYSOUND karaoke stage",
+      "branch": "Dome parking-lot special stage",
+      "jp": "JOYSOUND karaoke stage",
+      "tagline": "Sing before the concert • participation novelty",
+      "area": "Ozone / Dome",
+      "kind": "Activity",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "hours": "Nov 14 10:00–14:30; Nov 15 10:00–13:30",
+      "stamps": 0,
+      "chars": [],
+      "series": [],
+      "rules": [
+        "Love Live! songs only. Maebashi Witches special MCs and special stage.",
+        "Stage participants receive novelty while available, including accompanying chorus/dance participants. Up to 4 microphones per group.",
+        "Audience calls prohibited. Follow official queue directions."
+      ],
+      "warnings": [
+        "09:30 singing-number distribution appears in a later secondary summary; recheck final official time."
+      ],
+      "image": "",
+      "imageLabel": "Official announcement image",
+      "source": "https://www.maebashi-witches.com/news/detail.php?id=26653&site_category_id=6",
+      "x": "",
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-14"
+    },
+    {
+      "id": "osaka-link",
+      "partner": "osaka-link",
+      "name": "Osaka café receipt bonus",
+      "branch": "HEP Navio café + Nagoya kitchen car",
+      "jp": "THEキャラCAFE HEPナビオ店",
+      "tagline": "Keep your Osaka receipt for a Nagoya bonus",
+      "area": "Osaka",
+      "kind": "Food",
+      "start": "2026-11-05",
+      "end": "2026-11-29",
+      "hours": "Osaka café Nov 5–29; Nagoya kitchen car Nov 14–15",
+      "stamps": 0,
+      "chars": [],
+      "series": [],
+      "rules": [
+        "Keep original receipts from BOTH Osaka THE Chara Café at HEP Navio and Nagoya concert kitchen car.",
+        "Present both for one double-sided illustration-card design. Osaka café is cashless.",
+        "Check café entry availability before going."
+      ],
+      "warnings": [
+        "Exact handover counter and any additional minimum purchase were not clear in accessible announcement. Verify before spending only for the bonus."
+      ],
+      "image": "",
+      "imageLabel": "Official announcement image",
+      "source": "https://animestari.com/lovelive/2026/11/05/news-437/",
+      "x": "",
+      "status": "Redemption needs checking",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-14"
+    },
+    {
+      "id": "round1",
+      "partner": "round1",
+      "name": "Liella! × Round1",
+      "branch": "Nakagawa Route 1 branch",
+      "jp": "ラウンドワンスタジアム中川1号線店",
+      "tagline": "Themed room and goods; booking needed for room",
+      "area": "Southwest Nagoya",
+      "kind": "Activity",
+      "start": "2026-10-08",
+      "end": "2026-11-29",
+      "hours": "Check themed-room reservation",
+      "stamps": 0,
+      "chars": [],
+      "series": [
+        "liella"
+      ],
+      "rules": [
+        "Themed karaoke room, goods and mini-character group panel. Reserve collaboration room specifically.",
+        "Goods-only visitors can use karaoke reception.",
+        "Each collaboration menu item gives random standee coaster (11 designs). Room/activity packs give random clear card (11 designs).",
+        "Check current prices and room availability at source."
+      ],
+      "warnings": [],
+      "image": "",
+      "imageLabel": "Official announcement image",
+      "source": "https://factory.dmm.com/event/lovelive_yuigaoka_round1/",
+      "x": "",
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-18"
+    },
+    {
+      "id": "joysound",
+      "partner": "joysound",
+      "name": "JOYSOUND app campaign",
+      "branch": "Compatible karaoke rooms",
+      "jp": "JOYSOUND app campaign",
+      "tagline": "Optional evening • app-reserved songs unlock wallpapers",
+      "area": "Any area",
+      "kind": "Activity",
+      "start": "2026-11-06",
+      "end": "2027-01-11",
+      "hours": "Campaign starts Nov 6 11:00; ends Jan 11 23:59",
+      "stamps": 0,
+      "chars": [],
+      "series": [],
+      "rules": [
+        "Use Kyokunavi app to reserve and sing eligible campaign songs on compatible JOYSOUND machines (X1, MAX GO, MAX2, MAX).",
+        "Claim random wallpaper (7 designs). Batch reservation is excluded.",
+        "Some advertised live videos and AiScReam NEXT CARD video begin in December, not your November trip.",
+        "Prize-draw entry has separate terms; overseas eligibility not confirmed."
+      ],
+      "warnings": [],
+      "image": "",
+      "imageLabel": "Official announcement image",
+      "source": "https://www.joysound.com/web/s/campaign/1636",
+      "x": "",
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-18"
+    },
+    {
+      "id": "bic",
+      "partner": "bic",
+      "name": "Bic Camera Love Live! shopping",
+      "branch": "Nagoya Station West",
+      "jp": "ビックカメラ名古屋駅西店",
+      "tagline": "Optional goods and concert-light shopping",
+      "area": "Nagoya Station",
+      "kind": "Shopping",
+      "start": "2026-11-06",
+      "end": "2026-11-19",
+      "hours": "Check store hours",
+      "stamps": 0,
+      "chars": [],
+      "series": [],
+      "rules": [
+        "Official account promotes Love Live! goods and concert lights for Fest visitors.",
+        "Useful for last-minute light shopping. No confirmed Fest-specific purchase bonus was found."
+      ],
+      "warnings": [],
+      "image": "",
+      "imageLabel": "Official announcement image",
+      "source": "https://x.com/bic_nagoya",
+      "x": "",
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-13"
+    },
+    {
+      "id": "gigo",
+      "partner": "gigo",
+      "name": "GiGO card-game café",
+      "branch": "Market Square Sasashima",
+      "jp": "GiGOマーケットスクエアささしま",
+      "tagline": "Ends Nov 8 • do not plan for Fest weekend",
+      "area": "Nagoya Station",
+      "kind": "Food",
+      "start": "2026-07-11",
+      "end": "2026-11-08",
+      "hours": "Ends Nov 8; outside main Nagoya stay",
+      "stamps": 0,
+      "chars": [],
+      "series": [],
+      "rules": [
+        "The official card-game café ends Nov 8, before a Nov 12–19 stay.",
+        "Older fanfancy+ goods listings do not guarantee stock or ongoing campaign bonuses."
+      ],
+      "warnings": [],
+      "image": "",
+      "imageLabel": "Official announcement image",
+      "source": "https://www.gigo.co.jp/shops/cafestand-sasashima/cafe-and-goods",
+      "x": "",
+      "status": "Ends before main stay",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-13"
+    },
+    {
+      "id": "clock",
+      "partner": "clock",
+      "name": "Golden Clock",
+      "branch": "Sunshine!! pilgrimage",
+      "jp": "名古屋駅 金の時計",
+      "tagline": "Sunshine!! photo stop inside JR Nagoya Station.",
+      "area": "Nagoya Station",
+      "kind": "Pilgrimage",
+      "start": "2026-01-01",
+      "end": "2027-12-31",
+      "hours": "Public access / venue rules apply",
+      "stamps": 0,
+      "chars": [],
+      "series": [
+        "aqours"
+      ],
+      "rules": [
+        "Sunshine!! photo stop inside JR Nagoya Station.",
+        "Not a current collaboration or stamp-rally location."
+      ],
+      "warnings": [],
+      "image": "",
+      "imageLabel": "Official announcement image",
+      "source": "https://medium.com/@JPNlily21/a-small-nagoya-guide-for-love-live-event-visitors-love-live-sunshine-spots-edition-46c9d310148e",
+      "x": "",
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-18"
+    },
+    {
+      "id": "nana",
+      "partner": "nana",
+      "name": "Nana-chan doll",
+      "branch": "Sunshine!! pilgrimage",
+      "jp": "ナナちゃん人形",
+      "tagline": "Outfit changes. Do not expect a current Chika costume.",
+      "area": "Nagoya Station",
+      "kind": "Pilgrimage",
+      "start": "2026-01-01",
+      "end": "2027-12-31",
+      "hours": "Public access / venue rules apply",
+      "stamps": 0,
+      "chars": [],
+      "series": [
+        "aqours"
+      ],
+      "rules": [
+        "Outfit changes. Do not expect a current Chika costume.",
+        "Not a current collaboration or stamp-rally location."
+      ],
+      "warnings": [],
+      "image": "",
+      "imageLabel": "Official announcement image",
+      "source": "https://medium.com/@JPNlily21/a-small-nagoya-guide-for-love-live-event-visitors-love-live-sunshine-spots-edition-46c9d310148e",
+      "x": "",
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-18"
+    },
+    {
+      "id": "hisho",
+      "partner": "hisho",
+      "name": "Former Hisho site",
+      "branch": "Sunshine!! pilgrimage",
+      "jp": "名古屋駅 飛翔",
+      "tagline": "Monument removed. The anime-era view cannot be recreated.",
+      "area": "Nagoya Station",
+      "kind": "Pilgrimage",
+      "start": "2026-01-01",
+      "end": "2027-12-31",
+      "hours": "Public access / venue rules apply",
+      "stamps": 0,
+      "chars": [],
+      "series": [
+        "aqours"
+      ],
+      "rules": [
+        "Monument removed. The anime-era view cannot be recreated.",
+        "Not a current collaboration or stamp-rally location."
+      ],
+      "warnings": [],
+      "image": "",
+      "imageLabel": "Official announcement image",
+      "source": "https://medium.com/@JPNlily21/a-small-nagoya-guide-for-love-live-event-visitors-love-live-sunshine-spots-edition-46c9d310148e",
+      "x": "",
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-18"
+    },
+    {
+      "id": "fountain",
+      "partner": "fountain",
+      "name": "Former Yuri Fountain",
+      "branch": "Sunshine!! pilgrimage",
+      "jp": "名古屋駅 ゆりの噴水",
+      "tagline": "Fountain removed in 2023. West / Taiko-dori side of station.",
+      "area": "Nagoya Station",
+      "kind": "Pilgrimage",
+      "start": "2026-01-01",
+      "end": "2027-12-31",
+      "hours": "Public access / venue rules apply",
+      "stamps": 0,
+      "chars": [],
+      "series": [
+        "aqours"
+      ],
+      "rules": [
+        "Fountain removed in 2023. West / Taiko-dori side of station.",
+        "Not a current collaboration or stamp-rally location."
+      ],
+      "warnings": [],
+      "image": "",
+      "imageLabel": "Official announcement image",
+      "source": "https://medium.com/@JPNlily21/a-small-nagoya-guide-for-love-live-event-visitors-love-live-sunshine-spots-edition-46c9d310148e",
+      "x": "",
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-18"
+    },
+    {
+      "id": "mochinoki",
+      "partner": "mochinoki",
+      "name": "Mochinoki Plaza area",
+      "branch": "Sunshine!! pilgrimage",
+      "jp": "もちの木広場",
+      "tagline": "Redeveloped since Sunshine!! aired. Look at comparison photos.",
+      "area": "Sakae",
+      "kind": "Pilgrimage",
+      "start": "2026-01-01",
+      "end": "2027-12-31",
+      "hours": "Public access / venue rules apply",
+      "stamps": 0,
+      "chars": [],
+      "series": [
+        "aqours"
+      ],
+      "rules": [
+        "Redeveloped since Sunshine!! aired. Look at comparison photos.",
+        "Not a current collaboration or stamp-rally location."
+      ],
+      "warnings": [],
+      "image": "",
+      "imageLabel": "Official announcement image",
+      "source": "https://medium.com/@JPNlily21/a-small-nagoya-guide-for-love-live-event-visitors-love-live-sunshine-spots-edition-46c9d310148e",
+      "x": "",
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-18"
+    },
+    {
+      "id": "gaishi",
+      "partner": "gaishi",
+      "name": "Former Nippon Gaishi Hall",
+      "branch": "Sunshine!! pilgrimage",
+      "jp": "日本ガイシホール",
+      "tagline": "MIRAI TICKET-related venue. Exterior visit; interior access not guaranteed. Take a local JR train stopping at Kasadera.",
+      "area": "Kasadera",
+      "kind": "Pilgrimage",
+      "start": "2026-01-01",
+      "end": "2027-12-31",
+      "hours": "Public access / venue rules apply",
+      "stamps": 0,
+      "chars": [],
+      "series": [
+        "aqours"
+      ],
+      "rules": [
+        "MIRAI TICKET-related venue. Exterior visit; interior access not guaranteed. Take a local JR train stopping at Kasadera.",
+        "Not a current collaboration or stamp-rally location."
+      ],
+      "warnings": [],
+      "image": "",
+      "imageLabel": "Official announcement image",
+      "source": "https://medium.com/@JPNlily21/a-small-nagoya-guide-for-love-live-event-visitors-love-live-sunshine-spots-edition-46c9d310148e",
+      "x": "",
+      "status": "Published details",
+      "checked": "2026-11-06",
+      "extras": [],
+      "suggested": "2026-11-18"
+    }
+  ],
+  "products": [
+    {
+      "id": "book",
+      "name": "Stamp book + chosen acrylic stand",
+      "price": 2500,
+      "place": "mwt-0",
+      "note": "Cash only. Buy before collecting stamps.",
+      "image": "assets/stamprally_goods01.png",
+      "random": false
+    },
+    {
+      "id": "bundle",
+      "name": "Keychain + food / transport bundle",
+      "price": 3500,
+      "place": "mwt-0",
+      "note": "¥2,000 meal credit + city bus/subway day ticket. Ordinary bundle ¥2,370. Cash only.",
+      "image": "",
+      "random": false
+    },
+    {
+      "id": "bread",
+      "name": "Kiyomepan + acrylic keychain",
+      "price": 2000,
+      "place": "kiyome-0",
+      "note": "Reaches the ¥2,000 card threshold; check food expiry.",
+      "image": "",
+      "random": false
+    },
+    {
+      "id": "tea",
+      "name": "Hojicha heart tin",
+      "price": 2640,
+      "place": "myokoen-1",
+      "note": "Regular purchase-card scheme; card design random.",
+      "image": "assets/myokoen02.jpg",
+      "random": false
+    },
+    {
+      "id": "cake",
+      "name": "Hojicha pound cake + clear card",
+      "price": 3240,
+      "place": "myokoen-1",
+      "note": "One-per-person restriction announced; check expiry.",
+      "image": "assets/myokoen02.jpg",
+      "random": false
+    },
+    {
+      "id": "drink",
+      "name": "Strawberry hojicha + acrylic coaster",
+      "price": 1540,
+      "place": "myokoen-1",
+      "note": "Sakaechika or Atsuta only. Choose coaster. Not eligible for regular spending card.",
+      "image": "assets/myokoen03.jpg",
+      "random": false
+    },
+    {
+      "id": "uiro",
+      "name": "Collaboration uiro, 3 bars",
+      "price": 2400,
+      "place": "aoyagi-0",
+      "note": "Included card. Separate spending bonus begins at ¥2,500.",
+      "image": "assets/aoyagi02.jpg",
+      "random": false
+    },
+    {
+      "id": "incense",
+      "name": "Collaboration incense, one fragrance",
+      "price": 2200,
+      "place": "kohgen-0",
+      "note": "Three fragrances. Includes collaboration product required for card.",
+      "image": "",
+      "random": false
+    },
+    {
+      "id": "case",
+      "name": "Chika card case + rubber band",
+      "price": 2200,
+      "place": "sobajima-0",
+      "note": "Factory-shop detour.",
+      "image": "assets/sobajima01.jpg",
+      "random": false
+    },
+    {
+      "id": "tin",
+      "name": "Chika memorial work tin",
+      "price": 3850,
+      "place": "sobajima-0",
+      "note": "Bulkier souvenir; factory-shop detour.",
+      "image": "assets/sobajima01.jpg",
+      "random": false
+    },
+    {
+      "id": "pasta",
+      "name": "Yokoi pasta + clear file",
+      "price": 2500,
+      "place": "yokoi",
+      "note": "Only Nov 13–16. Quantity limited.",
+      "image": "",
+      "random": false
+    },
+    {
+      "id": "truck-drink",
+      "name": "Kitchen-car drink + coaster",
+      "price": 800,
+      "place": "truck",
+      "note": "Choose title; character random. 3 drinks together can earn Memories Snap.",
+      "image": "assets/truck.jpg",
+      "random": true
+    },
+    {
+      "id": "label",
+      "name": "Suntory label can",
+      "price": 900,
+      "place": "cans",
+      "note": "Random within series; peel label as sticker.",
+      "image": "assets/cans.jpg",
+      "random": true
+    },
+    {
+      "id": "paper",
+      "name": "Anniversary special newspaper",
+      "price": 550,
+      "place": "concert",
+      "note": "Venue advance sale from Nov 14; general sale Nov 16.",
+      "image": "",
+      "random": false
+    },
+    {
+      "id": "hasu-stand",
+      "name": "Hasunosora acrylic stand",
+      "price": 1980,
+      "place": "hasu",
+      "note": "Below the ¥2,000 bonus threshold by ¥20.",
+      "image": "",
+      "random": false
+    },
+    {
+      "id": "hasu-tag",
+      "name": "Hasunosora flight-tag keychain",
+      "price": 1100,
+      "place": "hasu",
+      "note": "Eight versions.",
+      "image": "",
+      "random": false
+    },
+    {
+      "id": "hasu-layer",
+      "name": "Hasunosora layered keychain",
+      "price": 1100,
+      "place": "hasu",
+      "note": "Eight versions.",
+      "image": "",
+      "random": false
+    },
+    {
+      "id": "hasu-plate",
+      "name": "Hasunosora acrylic plate",
+      "price": 2750,
+      "place": "hasu",
+      "note": "Eight versions.",
+      "image": "",
+      "random": false
+    },
+    {
+      "id": "hasu-card",
+      "name": "Hasunosora random card",
+      "price": 550,
+      "place": "hasu",
+      "note": "Instant-style or SNS-style card. Random.",
+      "image": "",
+      "random": true
+    },
+    {
+      "id": "hasu-shikishi",
+      "name": "Hasunosora random clear shikishi",
+      "price": 1100,
+      "place": "hasu",
+      "note": "Random.",
+      "image": "",
+      "random": true
+    },
+    {
+      "id": "hasu-umbrella",
+      "name": "Hasunosora random umbrella marker",
+      "price": 880,
+      "place": "hasu",
+      "note": "Random.",
+      "image": "",
+      "random": true
+    },
+    {
+      "id": "hasu-ticket",
+      "name": "Hasunosora random ticket sticker",
+      "price": 770,
+      "place": "hasu",
+      "note": "Random.",
+      "image": "",
+      "random": true
+    },
+    {
+      "id": "royal-stand",
+      "name": "Royal Holiday diorama stand",
+      "price": 2200,
+      "place": "royal",
+      "note": "With ¥880 badge = ¥3,080; reaches double-bonus threshold.",
+      "image": "",
+      "random": false
+    },
+    {
+      "id": "royal-mini",
+      "name": "Royal Holiday mini stand keychain",
+      "price": 1320,
+      "place": "royal",
+      "note": "Ends Nov 15.",
+      "image": "",
+      "random": false
+    },
+    {
+      "id": "royal-badge",
+      "name": "Royal Holiday acrylic badge",
+      "price": 880,
+      "place": "royal",
+      "note": "Bonus threshold is ¥3,000.",
+      "image": "",
+      "random": false
+    },
+    {
+      "id": "royal-random",
+      "name": "Royal Holiday random square badge",
+      "price": 550,
+      "place": "royal",
+      "note": "Random.",
+      "image": "",
+      "random": true
+    },
+    {
+      "id": "royal-card",
+      "name": "Royal Holiday random acrylic-card keychain",
+      "price": 770,
+      "place": "royal",
+      "note": "Random.",
+      "image": "",
+      "random": true
+    },
+    {
+      "id": "police-stand",
+      "name": "Nijigasaki Police acrylic stand",
+      "price": 1760,
+      "place": "police",
+      "note": "Bookmark threshold ¥2,200. Ask about combining retailer bonuses.",
+      "image": "",
+      "random": false
+    }
+  ],
+  "areas": [
+    "Any area",
+    "Atsuta",
+    "East Nagoya",
+    "Fushimi / Osu",
+    "Kanayama",
+    "Kasadera",
+    "Nagoya Port",
+    "Nagoya Station",
+    "Oharu",
+    "Osaka",
+    "Ozone / Dome",
+    "Sakae",
+    "Southwest Nagoya",
+    "West Nagoya",
+    "Yagoto"
+  ],
+  "series": {
+    "mus": "μ's",
+    "aqours": "Aqours",
+    "niji": "虹ヶ咲",
+    "liella": "Liella!",
+    "hasu": "蓮ノ空",
+    "ikzl": "いきづらい部！",
+    "sim": "ミュージカル"
+  },
+  "officialMap": "https://www.google.com/maps/d/viewer?mid=1gvdgaUiNzDugl8GMDz6dLPA-JiHM5l4",
+  "master": "https://www.mwt.co.jp/kokunai/chubu/special/lovelive2026/"
+}
