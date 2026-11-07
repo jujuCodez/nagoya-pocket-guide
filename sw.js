@@ -1,6 +1,6 @@
 'use strict';
-const VERSION='2026-11-07.4', CACHE='nagoya-pocket-'+VERSION;
-const CORE=['./','index.html','style.css','app.js?v=20261107-2','data.json?v=20261107-2','manifest.webmanifest','icon.svg','icon-192.png','icon-512.png','assets/credits.json'];
+const VERSION='2026-11-07.5', CACHE='nagoya-pocket-'+VERSION;
+const CORE=['./','index.html','style.css','app.js?v=20261107-3','data.json?v=20261107-3','manifest.webmanifest','icon.svg','icon-192.png','icon-512.png','assets/credits.json'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE)));self.skipWaiting()});
 self.addEventListener('activate',e=>e.waitUntil((async()=>{for(let k of await caches.keys())if(k.startsWith('nagoya-pocket-')&&k!==CACHE)await caches.delete(k);await self.clients.claim()})()));
 self.addEventListener('fetch',e=>{if(e.request.method!=='GET'||new URL(e.request.url).origin!==self.location.origin)return;e.respondWith((async()=>{let c=await caches.open(CACHE),r=await c.match(e.request);if(r)return r;try{let n=await fetch(e.request);if(n.ok)await c.put(e.request,n.clone());return n}catch(err){if(e.request.mode==='navigate')return await c.match('index.html');throw err}})())});
