@@ -1,5 +1,5 @@
 'use strict';
-const VERSION='2026-11-06.1', CACHE='nagoya-pocket-'+VERSION;
+const VERSION='2026-11-07.1', CACHE='nagoya-pocket-'+VERSION;
 const CORE=['./','index.html','style.css','app.js','data.json','manifest.webmanifest','icon.svg','icon-192.png','icon-512.png','assets/credits.json'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE)));self.skipWaiting()});
 self.addEventListener('activate',e=>e.waitUntil((async()=>{for(let k of await caches.keys())if(k.startsWith('nagoya-pocket-')&&k!==CACHE)await caches.delete(k);await self.clients.claim()})()));
