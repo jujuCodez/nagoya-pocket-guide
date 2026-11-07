@@ -153,21 +153,24 @@
           "hours": "11:00〜22:30",
           "lat": 35.1627776,
           "lng": 136.8936747,
-          "note": "パネルあり"
+          "note": "Photo panel",
+          "en": "Sakae"
         },
         {
           "jp": "土古店",
           "hours": "11:00〜22:00",
           "lat": 35.111638,
           "lng": 136.858614,
-          "note": "パネルあり"
+          "note": "Photo panel",
+          "en": "Doko"
         },
         {
           "jp": "大江店",
           "hours": "11:00〜22:00",
           "lat": 35.0872074,
           "lng": 136.9140292,
-          "note": "パネルあり"
+          "note": "Photo panel",
+          "en": "Oe"
         }
       ],
       "suggested": "2026-11-13"
@@ -215,21 +218,24 @@
           "hours": "11:00〜22:30",
           "lat": 35.1627776,
           "lng": 136.8936747,
-          "note": "パネルあり"
+          "note": "Photo panel",
+          "en": "Sakae"
         },
         {
           "jp": "土古店",
           "hours": "11:00〜22:00",
           "lat": 35.111638,
           "lng": 136.858614,
-          "note": "パネルあり"
+          "note": "Photo panel",
+          "en": "Doko"
         },
         {
           "jp": "大江店",
           "hours": "11:00〜22:00",
           "lat": 35.0872074,
           "lng": 136.9140292,
-          "note": "パネルあり"
+          "note": "Photo panel",
+          "en": "Oe"
         }
       ],
       "suggested": "2026-11-13"
@@ -689,7 +695,8 @@
           "hours": "10:00〜17:00（LO 16:00）",
           "lat": 35.1259202,
           "lng": 136.9115101,
-          "note": "パネルあり"
+          "note": "Photo panel",
+          "en": "Atsuta nagAya"
         }
       ],
       "suggested": "2026-11-17"
@@ -741,7 +748,8 @@
           "hours": "10:00〜17:00（LO 16:00）",
           "lat": 35.1259202,
           "lng": 136.9115101,
-          "note": "パネルあり"
+          "note": "Photo panel",
+          "en": "Atsuta nagAya"
         }
       ],
       "suggested": "2026-11-16"
@@ -793,7 +801,8 @@
           "hours": "10:00〜17:00（LO 16:00）",
           "lat": 35.1259202,
           "lng": 136.9115101,
-          "note": "パネルあり"
+          "note": "Photo panel",
+          "en": "Atsuta nagAya"
         }
       ],
       "suggested": "2026-11-13"
@@ -845,7 +854,8 @@
           "hours": "10:00〜17:00（LO 16:00）",
           "lat": 35.1259202,
           "lng": 136.9115101,
-          "note": "パネルあり"
+          "note": "Photo panel",
+          "en": "Atsuta nagAya"
         }
       ],
       "suggested": "2026-11-17"
@@ -892,161 +902,184 @@
           "hours": "Not checked",
           "lat": 35.1860109,
           "lng": 136.9446058,
-          "note": "コラボのぼり"
+          "note": "Collaboration banner",
+          "en": "Nagoya Dome West"
         },
         {
           "jp": "池下北第７",
           "hours": "Not checked",
           "lat": 35.1687843,
           "lng": 136.9448894,
-          "note": "コラボのぼり"
+          "note": "Collaboration banner",
+          "en": "Ikeshita Kita No. 7"
         },
         {
           "jp": "池下北第２",
           "hours": "Not checked",
           "lat": 35.1686215,
           "lng": 136.9455154,
-          "note": "コラボのぼり"
+          "note": "Collaboration banner",
+          "en": "Ikeshita Kita No. 2"
         },
         {
           "jp": "吹上第２",
           "hours": "Not checked",
           "lat": 35.1605073,
           "lng": 136.9352895,
-          "note": "コラボのぼり"
+          "note": "Collaboration banner",
+          "en": "Fukiage No. 2"
         },
         {
           "jp": "総合リハビリセンター駅北",
           "hours": "Not checked",
           "lat": 35.1292222,
           "lng": 136.9578139,
-          "note": "コラボのぼり"
+          "note": "Collaboration banner",
+          "en": "Sogo Rehabilitation Center Station North"
         },
         {
           "jp": "神宮前北",
           "hours": "Not checked",
           "lat": 35.1266566,
           "lng": 136.9109481,
-          "note": "コラボのぼり"
+          "note": "Collaboration banner",
+          "en": "Jingumae North"
         },
         {
           "jp": "金山駅南第２",
           "hours": "Not checked",
           "lat": 35.1409332,
           "lng": 136.9023919,
-          "note": "コラボのぼり"
+          "note": "Collaboration banner",
+          "en": "Kanayama Station South No. 2"
         },
         {
           "jp": "常滑駅前",
           "hours": "Not checked",
           "lat": 34.8894953,
           "lng": 136.8348397,
-          "note": "コラボのぼり"
+          "note": "Collaboration banner",
+          "en": "Tokoname Station Front"
         },
         {
           "jp": "烏森駅東",
           "hours": "Not checked",
           "lat": 35.1534339,
           "lng": 136.864548,
-          "note": "コラボのぼり"
+          "note": "Collaboration banner",
+          "en": "Karasumori Station East"
         },
         {
           "jp": "中村公園第１３",
           "hours": "Not checked",
           "lat": 35.1675088,
           "lng": 136.8562008,
-          "note": "コラボのぼり"
+          "note": "Collaboration banner",
+          "en": "Nakamura Koen No. 13"
         },
         {
           "jp": "中村公園第１０",
           "hours": "Not checked",
           "lat": 35.1666238,
           "lng": 136.8563497,
-          "note": "コラボのぼり"
+          "note": "Collaboration banner",
+          "en": "Nakamura Koen No. 10"
         },
         {
           "jp": "松原町第４",
           "hours": "Not checked",
           "lat": 35.1724943,
           "lng": 136.8684117,
-          "note": "コラボのぼり"
+          "note": "Collaboration banner",
+          "en": "Matsubara-cho No. 4"
         },
         {
           "jp": "椿町第３",
           "hours": "Not checked",
           "lat": 35.1682072,
           "lng": 136.8804535,
-          "note": "コラボのぼり"
+          "note": "Collaboration banner",
+          "en": "Tsubaki-cho No. 3"
         },
         {
           "jp": "名駅３丁目ＰＢ",
           "hours": "Not checked",
           "lat": 35.1743352,
           "lng": 136.8860321,
-          "note": "コラボのぼり"
+          "note": "Collaboration banner",
+          "en": "Meieki 3-chome PB"
         },
         {
           "jp": "名駅４丁目",
           "hours": "Not checked",
           "lat": 35.1693866,
           "lng": 136.8882711,
-          "note": "コラボのぼり"
+          "note": "Collaboration banner",
+          "en": "Meieki 4-chome"
         },
         {
           "jp": "名駅４丁目第７",
           "hours": "Not checked",
           "lat": 35.1709822,
           "lng": 136.8882494,
-          "note": "コラボのぼり"
+          "note": "Collaboration banner",
+          "en": "Meieki 4-chome No. 7"
         },
         {
           "jp": "白川公園",
           "hours": "Not checked",
           "lat": 35.1653842,
           "lng": 136.8981004,
-          "note": "コラボのぼり"
+          "note": "Collaboration banner",
+          "en": "Shirakawa Park"
         },
         {
           "jp": "伏見通御園",
           "hours": "Not checked",
           "lat": 35.1667862,
           "lng": 136.897249,
-          "note": "コラボのぼり"
+          "note": "Collaboration banner",
+          "en": "Fushimi-dori Misono"
         },
         {
           "jp": "錦3丁目第7",
           "hours": "Not checked",
           "lat": 35.1725344,
           "lng": 136.9019131,
-          "note": "コラボのぼり"
+          "note": "Collaboration banner",
+          "en": "Nishiki 3-chome No. 7"
         },
         {
           "jp": "大須第５",
           "hours": "Not checked",
           "lat": 35.1596043,
           "lng": 136.9005332,
-          "note": "コラボのぼり"
+          "note": "Collaboration banner",
+          "en": "Osu No. 5"
         },
         {
           "jp": "大須ＭｕｌｔｉｎａＢｏｘ（マルチナボックス）駐車場",
           "hours": "Not checked",
           "lat": 35.1603974,
           "lng": 136.9058504,
-          "note": "コラボのぼり"
+          "note": "Collaboration banner",
+          "en": "Osu Multina Box parking"
         },
         {
           "jp": "栄Ｍ",
           "hours": "Not checked",
           "lat": 35.1661004,
           "lng": 136.9100764,
-          "note": "コラボのぼり"
+          "note": "Collaboration banner",
+          "en": "Sakae M"
         },
         {
           "jp": "すいほう園",
           "hours": "Not checked",
           "lat": 35.1682003,
           "lng": 136.9105389,
-          "note": "コラボのぼり"
+          "note": "Collaboration banner",
+          "en": "Suihoen"
         }
       ],
       "suggested": "2026-11-16"
@@ -1131,112 +1164,128 @@
           "hours": "11:00〜21:00",
           "lat": 35.1616781,
           "lng": 136.9062361,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "Yabacho Main Store"
         },
         {
           "jp": "栄松坂屋店",
           "hours": "平日 11:00〜15:00（LO 14:30）／17:00〜22:00（LO 21:30）、土日祝 11:00〜22:00（LO 21:30）",
           "lat": 35.1646778,
           "lng": 136.9080861,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "Sakae Matsuzakaya"
         },
         {
           "jp": "栄ＬＡＣＨＩＣ店",
           "hours": "11:00〜22:00（LO 21:30）",
           "lat": 35.1673585,
           "lng": 136.9081339,
-          "note": "パネルあり"
+          "note": "Photo panel",
+          "en": "Sakae LACHIC"
         },
         {
           "jp": "栄セントライズ店",
           "hours": "平日 11:00〜15:00（LO 14:30）／17:00〜22:00（LO 21:30）、土日祝 11:00〜23:00（LO 22:30）",
           "lat": 35.1679811,
           "lng": 136.905446,
-          "note": "パネルあり"
+          "note": "Photo panel",
+          "en": "Sakae Centrise"
         },
         {
           "jp": "名古屋城金シャチ横丁店",
           "hours": "10:30〜17:30（LO 17:00）",
           "lat": 35.1828827,
           "lng": 136.8991995,
-          "note": "パネルあり"
+          "note": "Photo panel",
+          "en": "Nagoya Castle Kinshachi Yokocho"
         },
         {
           "jp": "名古屋駅エスカ店",
           "hours": "11:00〜22:00（LO 21:30）",
           "lat": 35.1709921,
           "lng": 136.8797233,
-          "note": "パネルあり"
+          "note": "Photo panel",
+          "en": "Nagoya Station ESCA"
         },
         {
           "jp": "名古屋駅三井ビル北館店",
           "hours": "11:00〜22:00（LO 21:30）",
           "lat": 35.1687756,
           "lng": 136.8852761,
-          "note": "パネルあり"
+          "note": "Photo panel",
+          "en": "Nagoya Station Mitsui Building North"
         },
         {
           "jp": "名古屋駅ルーセント店",
           "hours": "11:00〜22:00（LO 21:30）",
           "lat": 35.1749091,
           "lng": 136.8811366,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "Nagoya Station Lucent"
         },
         {
           "jp": "中部国際空港店",
           "hours": "10:00〜21:20（LO 21:00）、物販・持ち帰りの一部は8:00〜",
           "lat": 34.8585151,
           "lng": 136.8148075,
-          "note": "パネルあり"
+          "note": "Photo panel",
+          "en": "Chubu Centrair International Airport"
         },
         {
           "jp": "イオンモールナゴヤドーム前店",
           "hours": "11:00〜22:00（LO 21:30）",
           "lat": 35.1870942,
           "lng": 136.9444751,
-          "note": "パネルあり"
+          "note": "Photo panel",
+          "en": "AEON Mall Nagoya Dome-mae"
         },
         {
           "jp": "昔の矢場とん 大須観音本店",
           "hours": "11:00〜21:00（LO 20:30）",
           "lat": 35.1596073,
           "lng": 136.8998569,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "Mukashi no Yabaton Osu Kannon Main Store"
         },
         {
           "jp": "豊田Ｔ－ＦＡＣＥ店",
           "hours": "11:00〜22:00（LO 21:00）",
           "lat": 35.0876081,
           "lng": 137.155227,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "Toyota T-FACE"
         },
         {
           "jp": "NEOPASA岡崎店",
           "hours": "24時間営業",
           "lat": 35.0339637,
           "lng": 137.2224526,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "NEOPASA Okazaki"
         },
         {
           "jp": "栄 松坂屋地下店",
           "hours": "10:00〜20:00",
           "lat": 35.1654625,
           "lng": 136.9078118,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "Sakae Matsuzakaya Basement"
         },
         {
           "jp": "名古屋駅ジェイアールタカシマヤ店",
           "hours": "10:00〜20:00",
           "lat": 35.1711166,
           "lng": 136.8833906,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "Nagoya Station JR Takashimaya"
         },
         {
           "jp": "JR名古屋駅店",
           "hours": "7:00〜21:00",
           "lat": 35.1690306,
           "lng": 136.8818247,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "JR Nagoya Station"
         }
       ],
       "suggested": "2026-11-13"
@@ -1439,70 +1488,80 @@
           "hours": "平日・土曜 11:30〜14:30（LO 14:00）／17:00〜翌3:00（LO 2:30）",
           "lat": 35.1713804,
           "lng": 136.9041448,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "Nishiki"
         },
         {
           "jp": "名古屋駅エスカ店",
           "hours": "平日 11:00〜15:00（LO 14:30）／17:00〜22:00（LO 21:15）、土日祝 11:00〜22:00（LO 21:15）",
           "lat": 35.1708516,
           "lng": 136.8798491,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "Nagoya Station ESCA"
         },
         {
           "jp": "パレマルシェ池下店",
           "hours": "11:00〜21:00（LO 20:15）",
           "lat": 35.1673621,
           "lng": 136.9467199,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "Pare Marche Ikeshita"
         },
         {
           "jp": "アピタ名古屋北店",
           "hours": "平日 11:00〜15:00（LO 14:30）／17:00〜21:00（LO 20:15）、土日祝 11:00〜21:00（LO 20:15）",
           "lat": 35.2096485,
           "lng": 136.9226995,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "APITA Nagoya Kita"
         },
         {
           "jp": "アピタ千代田橋店",
           "hours": "平日 11:00〜15:00（LO 14:30）／17:00〜21:00（LO 20:15）、土日祝 11:00〜21:00（LO 20:15）",
           "lat": 35.1867782,
           "lng": 136.9690397,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "APITA Chiyoda-bashi"
         },
         {
           "jp": "アピタ名古屋南店",
           "hours": "平日 11:00〜15:00（LO 14:30）／17:00〜21:00（LO 20:15）、土日祝 11:00〜21:00（LO 20:15）",
           "lat": 35.1028077,
           "lng": 136.9129022,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "APITA Nagoya Minami"
         },
         {
           "jp": "アピタ鳴海店",
           "hours": "平日 11:00〜15:00（LO 14:30）／17:00〜22:00（LO 20:45）、土日祝 11:00〜22:00（LO 20:45）",
           "lat": 35.0940356,
           "lng": 136.9583271,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "APITA Narumi"
         },
         {
           "jp": "イオンモールナゴヤドーム前店",
           "hours": "11:00〜22:00（LO 21:15）",
           "lat": 35.1871052,
           "lng": 136.9449693,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "AEON Mall Nagoya Dome-mae"
         },
         {
           "jp": "イオンモール名古屋茶屋店",
           "hours": "11:00〜21:00（LO 20:15）",
           "lat": 35.1032951,
           "lng": 136.8256016,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "AEON Mall Nagoya Chaya"
         },
         {
           "jp": "中部国際空港店",
           "hours": "6:30〜22:00（LO 21:15）",
           "lat": 34.8595168,
           "lng": 136.8144044,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "Chubu Centrair International Airport"
         }
       ],
       "suggested": "2026-11-16"
@@ -1549,70 +1608,80 @@
           "hours": "平日・土曜 11:30〜14:30（LO 14:00）／17:00〜翌3:00（LO 2:30）",
           "lat": 35.1713804,
           "lng": 136.9041448,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "Nishiki"
         },
         {
           "jp": "名古屋駅エスカ店",
           "hours": "平日 11:00〜15:00（LO 14:30）／17:00〜22:00（LO 21:15）、土日祝 11:00〜22:00（LO 21:15）",
           "lat": 35.1708516,
           "lng": 136.8798491,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "Nagoya Station ESCA"
         },
         {
           "jp": "パレマルシェ池下店",
           "hours": "11:00〜21:00（LO 20:15）",
           "lat": 35.1673621,
           "lng": 136.9467199,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "Pare Marche Ikeshita"
         },
         {
           "jp": "アピタ名古屋北店",
           "hours": "平日 11:00〜15:00（LO 14:30）／17:00〜21:00（LO 20:15）、土日祝 11:00〜21:00（LO 20:15）",
           "lat": 35.2096485,
           "lng": 136.9226995,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "APITA Nagoya Kita"
         },
         {
           "jp": "アピタ千代田橋店",
           "hours": "平日 11:00〜15:00（LO 14:30）／17:00〜21:00（LO 20:15）、土日祝 11:00〜21:00（LO 20:15）",
           "lat": 35.1867782,
           "lng": 136.9690397,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "APITA Chiyoda-bashi"
         },
         {
           "jp": "アピタ名古屋南店",
           "hours": "平日 11:00〜15:00（LO 14:30）／17:00〜21:00（LO 20:15）、土日祝 11:00〜21:00（LO 20:15）",
           "lat": 35.1028077,
           "lng": 136.9129022,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "APITA Nagoya Minami"
         },
         {
           "jp": "アピタ鳴海店",
           "hours": "平日 11:00〜15:00（LO 14:30）／17:00〜22:00（LO 20:45）、土日祝 11:00〜22:00（LO 20:45）",
           "lat": 35.0940356,
           "lng": 136.9583271,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "APITA Narumi"
         },
         {
           "jp": "イオンモールナゴヤドーム前店",
           "hours": "11:00〜22:00（LO 21:15）",
           "lat": 35.1871052,
           "lng": 136.9449693,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "AEON Mall Nagoya Dome-mae"
         },
         {
           "jp": "イオンモール名古屋茶屋店",
           "hours": "11:00〜21:00（LO 20:15）",
           "lat": 35.1032951,
           "lng": 136.8256016,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "AEON Mall Nagoya Chaya"
         },
         {
           "jp": "中部国際空港店",
           "hours": "6:30〜22:00（LO 21:15）",
           "lat": 34.8595168,
           "lng": 136.8144044,
-          "note": "Extra branch; no rally stamp"
+          "note": "Extra branch; no rally stamp",
+          "en": "Chubu Centrair International Airport"
         }
       ],
       "suggested": "2026-11-13"
